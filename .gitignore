@@ -3,3 +3,9 @@ corpus/README\.md
 
 \.ipynb_checkpoints/
 gen/
+
+__pycache__/pytorchtools\.cpython-36\.pyc
+
+checkpoint\.pt
+
+pytorchtools\.py
