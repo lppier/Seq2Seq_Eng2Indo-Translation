@@ -1,0 +1,1320 @@
+level_0,index,English,Indonesian
+34,34,i m sad .,saya sedih .
+35,35,it s me !,ini aku !
+57,57,i m okay .,aku baik baik saja .
+58,58,it s odd .,itu aneh .
+59,59,it s odd .,ini aneh .
+83,83,i m bored .,saya bosan .
+84,84,i m bored .,aku bosan .
+85,85,i m drunk .,aku mabuk .
+86,86,i m first .,aku yang pertama .
+87,87,i m naked .,aku telanjang .
+88,88,it s cold .,dingin .
+108,108,what s up ?,ada apa ?
+112,112,are you ok ?,kamu tidak apa apa ?
+116,116,don t move !,jangan bergerak !
+117,117,don t move .,jangan bergerak .
+118,118,don t talk !,jangan berbicara !
+124,124,i am bored .,saya bosan .
+125,125,i am bored .,aku bosan .
+131,131,i m hiding .,aku sedang sembunyi .
+132,132,i m hungry !,aku lapar !
+133,133,i m hungry .,saya lapar .
+134,134,i m hungry .,aku lapar .
+135,135,i m sleepy !,aku ngantuk !
+141,141,it s night .,sekarang malam .
+142,142,it s weird .,itu aneh .
+143,143,it s weird .,ini aneh .
+154,154,tom was ok .,tom dalam keadaan baik .
+155,155,tom s home .,tom di rumah .
+159,159,are you cut ?,apa kau melakukan khitan ?
+160,160,are you new ?,kamu orang baru ?
+162,162,do you bowl ?,apa kau bermain boling ?
+163,163,don t smoke .,jangan merokok .
+164,164,don t worry .,jangan khawatir
+169,169,he is alone .,dia sendirian .
+170,170,he s crying .,dia sedang menangis .
+174,174,i am hungry .,saya lapar .
+175,175,i am hungry .,aku lapar .
+184,184,i m not shy .,saya tidak malu .
+185,185,i m serious .,aku serius .
+186,186,i m starved .,aku kelaparan .
+187,187,i m thirsty .,aku haus .
+188,188,i m too fat .,aku terlalu gemuk .
+195,195,it s a fake .,itu palsu .
+214,214,tom is rude .,tom adalah seorang yang kasar .
+215,215,tom s flaky .,tom itu suka berpangku tangan .
+219,219,what a bore !,membosankan sekali !
+220,220,what a pity !,sayang sekali !
+221,221,what s that ?,itu apa ?
+222,222,what s this ?,ini apa ?
+225,225,you re thin .,kamu kurus .
+226,226,are you sure ?,apakah kamu yakin ?
+227,227,are you sure ?,apakah anda yakin ?
+228,228,are you sure ?,apa kau yakin ?
+230,230,don t ask me .,jangan tanya aku .
+231,231,don t kid me !,jangan mempermainkanku !
+235,235,i am injured .,aku terluka .
+241,241,i m famished .,aku sangat lapar .
+242,242,i m not dumb .,aku tidak dungu .
+243,243,i m not here .,aku tidak berada di sini .
+244,244,i m not sure .,aku tidak yakin .
+245,245,i m so sorry .,saya sangat menyesal .
+246,246,i m starving !,aku kelaparan !
+247,247,i m starving .,aku kelaparan .
+254,254,it s my ship .,ini kapalku .
+255,255,it s no joke .,ini bukan lelucon .
+256,256,it s raining .,sedang turun hujan .
+257,257,it s strange .,itu aneh .
+258,258,it s strange .,ini aneh .
+265,265,she is eight .,dia delapan tahun .
+275,275,tom is tense .,tom tidak tenang .
+277,277,tom saw them .,tom melihat mereka .
+278,278,tom stutters .,tom berbicara dengan gagap .
+279,279,tom was fine .,tom dalam keadaan baik .
+280,280,tom was good .,tom dalam keadaan baik .
+281,281,tom s polite .,tom itu ramah .
+282,282,tom s strict .,tom itu keras .
+287,287,we re trying .,kami sedang mencoba .
+288,288,what is this ?,ini apa ?
+289,289,you re fools .,kamu bodoh .
+292,292,are you happy ?,apa kamu senang ?
+293,293,are you happy ?,apa anda bahagia ?
+294,294,are you tired ?,kamu capek ?
+297,297,do you get it ?,apa kamu paham ?
+298,298,do you see it ?,apa kamu melihatnya ?
+299,299,don t go away .,jangan pergi .
+300,300,don t mock me .,jangan mengejekku .
+328,328,i m not blind .,saya tidak buta .
+329,329,i m on a diet .,aku sedang melakukan diet .
+330,330,i m so hungry .,aku sangat lapar .
+336,336,it s for sale .,ini dijual .
+337,337,it s for sale .,ini untuk dijual .
+338,338,it s upstairs .,ada di lantai atas .
+363,363,tom is cranky .,tom bete .
+364,364,tom is immune .,tom kebal .
+365,365,tom is polite .,tom itu ramah .
+367,367,tom was fired .,tom dipecat .
+368,368,tom was happy .,tom merasa bahagia .
+369,369,tom was lucky .,tom beruntung .
+373,373,we re leaving .,kami berangkat .
+376,376,what is a ufo ?,apa itu ufo ?
+379,379,you re sleepy .,kamu ngantuk .
+380,380,are you asleep ?,kamu sudah tidur ?
+381,381,are you hungry ?,apa kau lapar ?
+382,382,are you joking ?,apa kau bercanda ?
+389,389,don t say that .,jangan katakan itu !
+390,390,don t tease me .,jangan menggodaku .
+391,391,don t you know ?,apa kamu tidak tahu ?
+405,405,i am a student .,saya adalah seorang siswa .
+406,406,i am in london .,aku ada di london .
+422,422,i m a free man .,aku adalah lelaki yang bebas .
+423,423,i m not a baby .,saya bukan bayi .
+424,424,i m not joking .,aku tidak bercanda .
+425,425,i m not joking .,aku tidak sedang bercanda .
+426,426,i m not stupid .,saya tidak bodoh .
+427,427,i m reasonable .,aku orang yang rasional .
+428,428,i m sick of it .,aku muak dengan hal itu .
+431,431,it s up to you .,terserah padamu .
+437,437,she is running .,dia sedang lari
+461,461,tom is at home .,tom ada di rumah .
+462,462,tom is jittery .,tom gelisah .
+463,463,tom is nervous .,tom gugup .
+464,464,tom isn t weak .,tom tidak lemah .
+466,466,tom was crying .,tom menangis .
+467,467,tom was eating .,tom sedang makan tadi .
+469,469,tom s not weak .,tom tidak lemah .
+472,472,we re credible .,kami dapat dipercaya .
+473,473,we re sociable .,kami seorang yang mudah bergaul .
+474,474,what s so hard ?,apa susahnya sih ?
+478,478,where s boston ?,boston itu di mana ?
+479,479,where s my car ?,mobilku mana ?
+484,484,are you certain ?,apakah kamu yakin ?
+485,485,are you certain ?,apakah anda yakin ?
+486,486,are you certain ?,apa kau yakin ?
+487,487,are you in love ?,apa kamu sedang jatuh cinta ?
+488,488,are you kidding ?,apa kau bercanda ?
+489,489,are you serious ?,apa kau serius ?
+495,495,do you have one ?,apa kamu punya satu ?
+496,496,do you see that ?,apa kamu melihatnya ?
+497,497,do you see this ?,apa kamu melihat ini ?
+498,498,do you think so ?,apa kamu pikir begitu ?
+499,499,don t get drunk .,jangan mabuk !
+500,500,don t stay here .,jangan menetap di sini .
+512,512,he s helping me .,dia menolongku .
+513,513,he s my brother .,dia kakak laki lakiku .
+514,514,he s my brother .,dia kakakku .
+515,515,he s my brother .,dia adikku .
+523,523,i am from spain .,saya berasal dari spanyol .
+542,542,i m almost done .,aku hampir selesai .
+543,543,i m going to go .,aku akan pergi .
+544,544,i m going to go .,saya akan pergi .
+545,545,i m not kidding .,aku tidak bercanda .
+546,546,i m not kidding .,aku tidak sedang bercanda .
+547,547,i m tired of it .,aku lelah dengan hal itu .
+548,548,i m very hungry .,aku sangat lapar .
+549,549,i m your friend .,aku temanmu .
+560,560,it s no problem .,tidak masalah .
+561,561,it s not a joke .,ini bukan lelucon .
+562,562,it s not broken .,ini tidak rusak .
+563,563,it s not enough .,ini tidak cukup .
+564,564,it s not enough .,itu tidak cukup .
+565,565,it s ridiculous .,ini konyol .
+566,566,it s ridiculous .,itu konyol .
+567,567,it s time to go .,sudah waktunya untuk pergi .
+588,588,she s assertive .,ia tegas .
+589,589,she s assertive .,dia tegas .
+608,608,tom is home now .,tom sedang di rumah sekarang .
+609,609,tom is my buddy .,tom adalah temanku .
+610,610,tom is very old .,tom sangat tua .
+617,617,tom seems upset .,tom sepertinya sedih .
+618,618,tom was injured .,tom telah terluka .
+619,619,tom was singing .,tom sedang bernyanyi tadi .
+620,620,tom s concerned .,tom khawatir .
+621,621,tom s dangerous .,tom itu berbahaya .
+622,622,tom s my friend .,tom itu temanku .
+629,629,we re ambitious .,kami ambisius .
+630,630,what s going on ?,ada apa ?
+631,631,what s happened ?,apa yang terjadi ?
+632,632,what s your job ?,apa pekerjaanmu ?
+636,636,where did he go ?,dia pergi ke mana ?
+637,637,where did it go ?,ke mana perginya ?
+638,638,where is my car ?,mobilku mana ?
+639,639,where is my pen ?,di mana pulpenku ?
+650,650,are you for real ?,apa kau serius ?
+651,651,are you positive ?,apa kamu sudah positif ?
+652,652,are you sleeping ?,kamu lagi tidur ?
+659,659,do you cry often ?,apakah kamu sering menangis ?
+660,660,do you live here ?,apakah kamu tinggal di sini ?
+661,661,do you live here ?,apakah anda tinggal di sini ?
+662,662,don t you get it ?,apa kamu tidak mengerti ?
+667,667,he is my brother .,dia adalah adikku .
+668,668,he is my brother .,dia adalah kakakku .
+669,669,he is still here .,dia masih di sini .
+683,683,i am not kidding .,aku tidak bercanda .
+684,684,i am not kidding .,aku tidak sedang bercanda .
+685,685,i am only joking .,saya hanya bergurau .
+686,686,i am very hungry .,aku sangat lapar .
+713,713,i m years old .,saya berusia tahun .
+714,714,i m tom s driver .,saya supir tom .
+715,715,i m a bookkeeper .,aku seorang penata buku .
+716,716,i m an alcoholic .,saya kecanduan alkohol .
+717,717,i m done working .,aku sudah selesai bekerja .
+718,718,i m not a doctor .,aku bukan dokter .
+719,719,i m not an idiot .,saya bukan idiot .
+720,720,i m not bluffing .,aku tidak sedang menggertakmu .
+721,721,i m proud of you .,aku bangga padamu .
+722,722,i m sick of this .,aku muak dengan hal ini .
+723,723,i m super hungry .,aku sangat lapar .
+728,728,it s a nice town .,ini kota yang bagus .
+729,729,it s not a trick .,ini bukan tipuan .
+730,730,it s on the sofa .,itu ada di atas sofa .
+731,731,it s very boring .,ini sangat membosankan .
+757,757,she is mad at me .,dia marah padaku .
+758,758,she is not young .,dia tidak muda .
+759,759,she s helping me .,dia menolongku .
+760,760,she s not a liar .,dia bukan seorang pembohong .
+779,779,tom is a student .,tom adalah seorang siswa .
+780,780,tom is courteous .,tom itu ramah .
+781,781,tom is easygoing .,tom itu santai .
+782,782,tom is forgetful .,tom itu pelupa .
+783,783,tom is my friend .,tom adalah temanku .
+784,784,tom isn t famous .,tom tidak terkenal .
+788,788,tom sounds upset .,tom sepertinya sedih .
+789,789,tom studies hard .,tom belajar dengan tekun .
+791,791,tom was divorced .,tom diceraikan .
+792,792,tom was poisoned .,tom keracunan .
+793,793,tom was worn out .,tom kelelahan .
+795,795,tom s quite good .,tom lumayan bagus .
+800,800,we re nonsmokers .,kami bukan perokok .
+810,810,what is going on ?,ada apa ?
+813,813,what s your name ?,siapa namamu ?
+814,814,where did you go ?,ke mana kamu pergi ?
+815,815,where is customs ?,di mana bea dan cukai ?
+828,828,you re too young .,kamu itu masih bau kencur .
+830,830,are you all ready ?,apa kalian semua sudah siap ?
+831,831,are you all right ?,kamu tidak apa apa ?
+836,836,do you have a pen ?,apa kau punya pulpen ?
+838,838,don t pull my leg !,jangan mempermainkanku !
+839,839,don t you feel it ?,apa kamu merasakannya ?
+840,840,don t you hear it ?,apa kamu mendengarnya ?
+841,841,don t you see tom ?,apakah kamu melihat tom ?
+845,845,he is a quiet man .,dia orangnya pendiam .
+852,852,i am not a doctor .,saya bukan dokter .
+882,882,i m a human being .,aku adalah manusia .
+883,883,i m an accountant .,aku seorang akuntan .
+884,884,i m not a student .,aku bukan pelajar .
+885,885,i m not a student .,aku bukan siswa .
+886,886,i m not a student .,saya bukan siswa .
+887,887,i m not into that .,aku tidak begitu suka dengan hal semacam itu .
+888,888,i m really hungry .,aku sangat lapar .
+889,889,i m tired of this .,aku lelah dengan hal ini .
+894,894,it should be fine .,semuanya akan baik baik saja .
+896,896,it s all my fault .,ini semua salahku .
+897,897,it s confidential .,ini rahasia .
+898,898,it s my only hope .,ini satu satunya harapan saya .
+899,899,it s not my fault .,itu bukan salahku .
+900,900,it s pretty weird .,itu sangat aneh .
+901,901,it s starting now .,sudah dimulai sekarang .
+922,922,she is aggressive .,dia agresif .
+951,951,tom is a bit pale .,tom agak pucat .
+952,952,tom is a bookworm .,tom itu kutu buku .
+953,953,tom is a good guy .,tom adalah pria yang baik .
+954,954,tom is a good man .,tom adalah pria yang baik .
+955,955,tom is a murderer .,tom seorang pembunuh .
+956,956,tom is distressed .,tom tertekan .
+957,957,tom is having fun .,tom sedang bersenang senang .
+958,958,tom is in the car .,tom sedang berada di dalam mobil .
+959,959,tom is not famous .,tom tidak terkenal .
+960,960,tom is quite good .,tom lumayan bagus .
+961,961,tom is stuttering .,tom berbicara dengan gagap .
+962,962,tom is unemployed .,tom adalah seorang penganggur .
+963,963,tom is very funny .,tom sangat lucu .
+964,964,tom isn t thirsty .,tom tidak haus .
+969,969,tom seems puzzled .,tom sepertinya kebingungan .
+970,970,tom seems shocked .,tom sepertinya syok .
+971,971,tom seems stunned .,tom sepertinya terkejut .
+972,972,tom set the table .,tom mengatur meja .
+973,973,tom shut his eyes .,tom memejamkan mata .
+974,974,tom staggered out .,tom terhuyung huyung keluar .
+975,975,tom stood in line .,tom berjajar dalam barisan .
+977,977,tom was delighted .,tom merasa gembira .
+978,978,tom was exhausted .,tom kelelahan .
+979,979,tom was fortunate .,tom beruntung .
+988,988,we re helping tom .,kami sedang membantu tom .
+996,996,what is the price ?,berapa harganya ?
+997,997,what is your name ?,siapa nama anda ?
+998,998,what is your name ?,siapa namamu ?
+1000,1000,what s the matter ?,ada apa ?
+1001,1001,what s the matter ?,ada masalah apa ?
+1002,1002,what s the matter ?,ada masalah ?
+1003,1003,what s your major ?,jurusanmu apa ?
+1004,1004,what s your score ?,berapa nilaimu ?
+1006,1006,where did they go ?,ke mana mereka pergi ?
+1007,1007,where did you eat ?,kamu makan di mana ?
+1008,1008,where is he going ?,dia pergi ke mana ?
+1009,1009,where is my watch ?,di mana jamku ?
+1010,1010,where s tom today ?,di mana tom hari ini ?
+1011,1011,where s your coat ?,mana jasmu ?
+1019,1019,you are in my way .,kau berada di jalanku .
+1025,1025,you re a murderer .,kau seorang pembunuh .
+1026,1026,you re aggressive .,kau agresif .
+1029,1029,are you down there ?,apakah kamu di sana ?
+1030,1030,are you down there ?,apakah kamu di situ ?
+1031,1031,are you in a hurry ?,apa kamu sedang terburu buru ?
+1032,1032,are you kidding me ?,apa kau bercanda ?
+1033,1033,are you quite sure ?,apa kau sudah cukup yakin ?
+1034,1034,are you sure of it ?,apa kau yakin dengan hal itu ?
+1035,1035,are you vegetarian ?,apa kau nabatiwan ?
+1041,1041,do you feel guilty ?,apa kamu merasa bersalah ?
+1042,1042,do you feel guilty ?,apa anda merasa bersalah ?
+1043,1043,do you feel guilty ?,apakah kamu merasa bersalah ?
+1044,1044,do you feel guilty ?,apakah anda merasa bersalah ?
+1045,1045,do you have a plan ?,apa kau memiliki sebuah rencana ?
+1046,1046,do you know kabuki ?,apakah kamu tahu kabuki ?
+1047,1047,do you like it all ?,apa kamu suka semuanya ?
+1048,1048,do you need a hand ?,apa kamu butuh bantuan ?
+1049,1049,do you remember us ?,apa kau mengingat kami ?
+1050,1050,do you want to try ?,anda ingin mencoba ?
+1053,1053,don t give me that .,jangan berikan itu padaku !
+1054,1054,don t say his name .,jangan sebut namanya .
+1055,1055,don t throw stones .,jangan melempar batu .
+1056,1056,don t touch my car .,jangan sentuh mobilku .
+1074,1074,i am not a student .,aku bukan pelajar .
+1075,1075,i am not a student .,aku bukan siswa .
+1076,1076,i am not a student .,saya bukan siswa .
+1077,1077,i am sorry for you .,saya turut berduka .
+1107,1107,i m from singapore .,saya dari singapura .
+1108,1108,i m getting hungry .,aku mulai lapar .
+1109,1109,i m giving it back .,aku mengembalikannya .
+1110,1110,i m going downtown .,aku mau pergi ke pusat kota .
+1111,1111,i m going with you .,aku akan pergi denganmu .
+1112,1112,i m holding a book .,aku menggenggam sebuah buku .
+1113,1113,i m not going back .,aku tidak akan kembali .
+1121,1121,it s already seven .,ini sudah jam tujuh .
+1122,1122,it s already seven .,sudah jam tujuh .
+1123,1123,it s very relaxing .,ini sangat menenangkan .
+1144,1144,she s from somalia .,dia dari somalia
+1178,1178,tom is mary s boss .,tom adalah bos dari mary .
+1179,1179,tom is a bartender .,tom adalah seorang pelayan bar .
+1180,1180,tom is a good cook .,tom adalah seorang yang pandai memasak .
+1181,1181,tom is at home now .,tom sedang di rumah sekarang .
+1182,1182,tom is on the dock .,tom ada di dok .
+1183,1183,tom is pretty good .,tom sangat bagus .
+1190,1190,tom seems confused .,tom sepertinya kebingungan .
+1191,1191,tom should be here .,tom seharusnya ada di sini .
+1202,1202,we re closed today .,hari ini kami tutup .
+1203,1203,we re out of money .,uang kami habis .
+1205,1205,what a stupid joke !,dasar lelucon bego !
+1208,1208,what is my purpose ?,apa tujuan yang ingin aku capai ?
+1209,1209,what should i wear ?,baju mana yang mesti aku pakai ?
+1210,1210,what s the problem ?,ada masalah apa ?
+1211,1211,what s the problem ?,ada masalah ?
+1212,1212,what s this called ?,disebut apa ini ?
+1215,1215,where did you stay ?,di mana anda menginap ?
+1217,1217,where is your coat ?,di mana jasmu ?
+1232,1232,you are very brave .,kamu berani sekali .
+1236,1236,you re interfering .,kau menghalangi .
+1237,1237,you re quite right .,kau memang benar .
+1238,1238,you re still green .,kamu itu masih muda .
+1239,1239,you re still green .,kamu itu masih bau kencur .
+1240,1240,you re still young .,kamu itu masih muda .
+1245,1245,are you on facebook ?,apa kau punya facebook ?
+1251,1251,do you have any cds ?,apa kau memiliki cd ?
+1252,1252,do you keep a diary ?,apa kamu menulis buku harian ?
+1253,1253,do you like bowling ?,apakah kamu suka bowling ?
+1254,1254,do you travel a lot ?,apakah anda banyak melakukan perjalanan ?
+1255,1255,don t even go there .,jangan pernah pergi ke sana .
+1256,1256,don t make me laugh .,jangan membuatku tertawa .
+1257,1257,don t you feel cold ?,apakah kamu tidak merasa dingin .
+1273,1273,i am about your age .,aku hampir seusia denganmu .
+1274,1274,i am fed up with it .,aku sudah jenuh akan hal itu .
+1275,1275,i am going with you .,aku akan pergi denganmu .
+1276,1276,i am short of money .,aku kekurangan uang .
+1312,1312,i m a lousy swimmer .,aku perenang yang payah .
+1313,1313,i m counting on you .,aku mengandalkanmu .
+1314,1314,i m fine thank you .,saya baik baik saja terima kasih .
+1315,1315,i m grateful to you .,aku berterima kasih padamu .
+1316,1316,i m tracking a buck .,saya sedang memburu seekor rusa jantan .
+1317,1317,i m waiting for him .,aku sedang menunggunya .
+1330,1330,it s an old picture .,itu adalah lukisan yang tua .
+1331,1331,it s not my problem .,ini bukan masalahku .
+1332,1332,it s rather curious .,ini agak aneh .
+1333,1333,it s time to get up .,sudah waktunya bangun .
+1368,1368,they re kind of fun .,mereka lumayan menyenangkan .
+1369,1369,they re not illegal .,mereka bukan pendatang gelap .
+1370,1370,they re still young .,mereka masih muda .
+1386,1386,tom is mary s uncle .,tom adalah paman mary .
+1387,1387,tom is a politician .,tom adalah seorang politikus .
+1388,1388,tom is all business .,tom terlalu serius .
+1389,1389,tom is having lunch .,tom sedang makan siang .
+1390,1390,tom is ignoring you .,tom mengabaikanmu .
+1391,1391,tom is in the house .,tom ada di dalam rumah .
+1398,1398,tom says he ll come .,tom bilang ia akan datang .
+1399,1399,tom shut the drawer .,tom menutup lacinya .
+1400,1400,tom started to sing .,tom mulai bernyanyi .
+1401,1401,tom was very scared .,tom sangat ketakutan .
+1404,1404,tom s eyes are blue .,mata tom biru .
+1405,1405,tom s eyes are blue .,tom matanya biru .
+1406,1406,tom s face was pale .,muka tom pucat
+1409,1409,we re eating apples .,kami sedang makan apel .
+1411,1411,what are you eating ?,apa yang sedang kamu makan ?
+1414,1414,what is on the desk ?,di atas meja ada apa ?
+1415,1415,what is this called ?,disebut apa ini ?
+1418,1418,what s your problem ?,apa masalahmu ?
+1432,1432,where is the toilet ?,di manakah toilet ?
+1433,1433,where is the toilet ?,di mana toiletnya ?
+1435,1435,where s the airport ?,ada di mana bandaranya ?
+1436,1436,where s the station ?,stasiunnya di mana ?
+1437,1437,where s your jacket ?,mana jaketmu ?
+1454,1454,you re going to die .,kau akan mati .
+1457,1457,are you a vegetarian ?,apa kau nabatiwan ?
+1458,1458,are you a vegetarian ?,apa kau seorang nabatiwan ?
+1459,1459,are you conservative ?,apa kau konservatif ?
+1460,1460,are you sure of that ?,apa kau yakin dengan hal itu ?
+1461,1461,are your hands clean ?,apakah tanganmu sudah bersih ?
+1474,1474,do you have any pets ?,apakah anda memiliki peliharaan ?
+1475,1475,do you speak english ?,apa anda menggunakan bahasa inggris ?
+1476,1476,don t make fun of me .,jangan mempermainkanku .
+1477,1477,don t worry about me .,jangan khawatirkan aku .
+1487,1487,he isn t here is he ?,dia tidak ada di sini kan ?
+1491,1491,he s eating an apple .,dia sedang memakan sebuah apel .
+1492,1492,he s under the chair .,dia ada di bawah kursi .
+1498,1498,i am afraid of dying .,saya takut mati .
+1499,1499,i am counting on you .,aku mengandalkanmu .
+1500,1500,i am eating an apple .,saya sedang makan sebuah apel .
+1501,1501,i am terribly hungry .,aku sangat lapar .
+1536,1536,i m glad to meet you .,senang bertemu denganmu .
+1537,1537,i m happy to be here .,saya senang berada disini .
+1538,1538,i m not busy anymore .,aku tidak lagi sibuk .
+1539,1539,i m not feeling well .,aku merasa tidak enak badan .
+1540,1540,i m shorter than you .,aku lebih pendek ketimbang kamu .
+1541,1541,i m washing my hands .,saya mencuci tangan .
+1553,1553,it s a good question .,ini pertanyaan yang bagus
+1554,1554,it s time to wake up .,sudah waktunya bangun .
+1596,1596,they re all the same .,semuanya sama .
+1610,1610,tom is a red sox fan .,tom adalah penggemar dari red sox .
+1611,1611,tom is a good person .,tom adalah orang yang baik .
+1612,1612,tom is a good worker .,tom adalah pekerja yang baik .
+1613,1613,tom is a nice person .,tom adalah orang yang baik .
+1614,1614,tom is conscientious .,tom adalah seorang yang teliti .
+1615,1615,tom is older than me .,tom lebih tua ketimbang aku .
+1616,1616,tom is the strongest .,tomlah yang terkuat .
+1621,1621,tom seems bewildered .,tom sepertinya bimbang .
+1622,1622,tom speaks very fast .,tom berbicara sangat cepat .
+1623,1623,tom speaks very fast .,tom berbicara dengan sangat cepat .
+1626,1626,tom was all worn out .,tom benar benar kelelahan .
+1627,1627,tom was good at that .,tom sangat baik dalam hal itu .
+1628,1628,tom was lying to you .,tom sudah berbohong padamu .
+1640,1640,we re going to fight .,kita akan bertarung .
+1641,1641,we re really married .,kami berdua benar benar sudah menikah .
+1646,1646,what is your problem ?,apa masalahmu ?
+1648,1648,what s our situation ?,bagaimana situasi kita ?
+1661,1661,where is the station ?,ada di mana stasiunnya ?
+1662,1662,where is the station ?,stasiunnya di mana ?
+1663,1663,where is your jacket ?,di mana jaketmu ?
+1665,1665,where s the restroom ?,di mana kamar kecilnya ?
+1675,1675,you are new students .,kalian adalah para siswa baru .
+1676,1676,you are the only one .,kaulah satu satunya .
+1680,1680,you re not ready yet .,kamu belum siap .
+1681,1681,you re totally right .,kau memang benar .
+1687,1687,are you being serious ?,apa kau serius ?
+1688,1688,are you in a bad mood ?,apa suasana hatimu sedang buruk ?
+1689,1689,are you talking to me ?,apakah kau sedang bicara padaku ?
+1690,1690,are you ten years old ?,apa umurmu tahun ?
+1701,1701,do you have a bicycle ?,apakah kamu punya sepeda ?
+1702,1702,do you have a bicycle ?,apakah anda punya sepeda ?
+1703,1703,do you have a lighter ?,apa kau punya korek api ?
+1704,1704,do you have a vacancy ?,apa ada kamar yang kosong ?
+1705,1705,do you have some milk ?,apa kau punya susu ?
+1706,1706,do you like surprises ?,apakah kamu menyukai kejutan ?
+1707,1707,do you understand her ?,apa kamu mengerti dia ?
+1710,1710,don t make me hit you .,jangan sampai aku memukulmu .
+1711,1711,don t point at others .,jangan menuduh orang lain .
+1712,1712,don t touch my camera .,jangan sentuh kameraku .
+1725,1725,he is mad about music .,dia tergila gila soal musik .
+1728,1728,he s eating lunch now .,dia sedang makan siang sekarang .
+1729,1729,he s my older brother .,dia kakakku .
+1730,1730,he s very intelligent .,dia sangat pintar .
+1743,1743,i am glad to meet you .,senang bertemu denganmu .
+1744,1744,i am shorter than you .,aku lebih pendek ketimbang kamu .
+1791,1791,i m afraid to go home .,aku takut pulang ke rumah .
+1792,1792,i m glad i could help .,saya senang bisa membantu .
+1793,1793,i m glad you liked it .,aku senang kamu menyukainya .
+1794,1794,i m going to kill you .,aku akan membunuhmu .
+1795,1795,i m here as a tourist .,aku di sini sebagai seorang turis .
+1796,1796,i m playing a tv game .,aku memainkan sebuah permainan di televisi .
+1797,1797,i m still not certain .,aku masih belum yakin .
+1808,1808,it seemed to be cheap .,sepertinya itu murah .
+1809,1809,it seems well written .,ini kelihatan ditulis dengan rapi .
+1811,1811,it s really happening .,itu benar benar terjadi .
+1838,1838,she s eight years old .,dia delapan tahun .
+1859,1859,they re eating apples .,mereka sedang memakan apel .
+1879,1879,tom is always bananas .,tom selalu konyol .
+1880,1880,tom is always healthy .,tom selalu sehat .
+1881,1881,tom is bigger than me .,tom lebih besar ketimbang aku .
+1882,1882,tom is reading a book .,tom sedang membaca buku .
+1883,1883,tom is taller than me .,tom lebih tinggi daripada aku .
+1884,1884,tom isn t the traitor .,tom bukanlah penghianat .
+1888,1888,tom spoke up for mary .,tom berbicara untuk mary .
+1889,1889,tom studies very hard .,tom sangat tekun belajar .
+1890,1890,tom was quite helpful .,tom sudah cukup membantu .
+1893,1893,we re on our way home .,kami sedang berada dalam perjalanan pulang .
+1894,1894,we re still searching .,kami masih mencari .
+1895,1895,what a waste of money !,buang buang duit aja !
+1896,1896,what are you drinking ?,kamu minum apa ?
+1904,1904,what s in your pocket ?,apa yang ada di dalam kantongmu ?
+1905,1905,what s wrong with you ?,apa yang salah denganmu ?
+1906,1906,what s wrong with you ?,ada apa denganmu ?
+1907,1907,what s your last name ?,siapa nama belakangmu ?
+1908,1908,what s your specialty ?,jurusanmu apa ?
+1917,1917,where is my newspaper ?,di mana koranku ?
+1918,1918,where is the bus stop ?,di mana tempat pemberhentian busnya ?
+1919,1919,where s tom moving to ?,tom pindah ke mana ?
+1920,1920,where s the newspaper ?,korannya mana ?
+1935,1935,you re older than tom .,kamu lebih tua daripada tom .
+1939,1939,are you coming with me ?,apa kamu mau ikut ?
+1940,1940,are you speaking to me ?,apa kau bicara padaku ?
+1948,1948,do you have any coffee ?,apa kau punya kopi ?
+1949,1949,do you know the reason ?,apa kau tahu alasannya ?
+1950,1950,do you like my t shirt ?,apakah kamu menyukai kaus oblong saya ?
+1951,1951,do you study every day ?,apa kamu belajar setiap hari ?
+1952,1952,don t be a wet blanket .,jangan suka mengganggu kesenangan orang lain .
+1953,1953,don t underestimate me .,jangan meremehkanku .
+1959,1959,he is blind in one eye .,sebelah matanya buta .
+1960,1960,he isn t able to do it .,dia tidak mampu melakukannya .
+1964,1964,he s going to sit here .,dia akan duduk di sini .
+1967,1967,i am ashamed of myself .,aku malu pada diriku sendiri .
+1968,1968,i am to meet him there .,saya akan bertemu dengannya di sana .
+2013,2013,i m a realistic person .,aku adalah orang yang realistis .
+2014,2014,i m anxious to see you .,aku ingin sekali bertemu denganmu .
+2015,2015,i m dying to see paris .,aku sangat ingin melihat paris .
+2016,2016,i m going to need help .,aku akan membutuhkan bantuan .
+2017,2017,i m happy i could help .,saya senang bisa membantu .
+2018,2018,i m happy to hear that .,saya senang mendengar hal itu .
+2019,2019,i m not kidding around .,aku tidak sedang bercanda .
+2020,2020,i m not messing around .,aku tidak sedang membuang buang waktu .
+2021,2021,i m thinking about you .,aku memikirkan tentang dirimu .
+2028,2028,it s entirely my fault .,seluruhnya adalah kesalahanku .
+2029,2029,it s for you to decide .,itu terserah padamu .
+2030,2030,it s like one of those .,ini seperti satu dari barang barang itu .
+2031,2031,it s like one of those .,ini seperti satu dari mereka .
+2032,2032,it s too noisy in here .,di sini terlalu berisik .
+2047,2047,she is habitually late .,dia kebiasaan datang terlambat .
+2049,2049,she shaved her armpits .,dia mencukur bulu ketiaknya .
+2098,2098,tom is a buddy of mine .,tom adalah seorang kawanku .
+2099,2099,tom is a good employee .,tom adalah pegawai yang baik .
+2100,2100,tom is afraid of dying .,tom takut mati .
+2101,2101,tom is alone with mary .,tom sedang berduaan dengan mary .
+2102,2102,tom is beating up mary .,tom memukuli mary .
+2103,2103,tom is getting jealous .,tom mulai cemburu .
+2104,2104,tom is good at cooking .,tom pandai dalam hal memasak .
+2105,2105,tom is looking for you .,tom sedang mencarimu .
+2108,2108,tom says he s innocent .,tom berkata dia tidak bersalah .
+2109,2109,tom set down his spoon .,tom meletakkan sendoknya .
+2110,2110,tom should just resign .,tom sebaiknya mengundurkan diri .
+2111,2111,tom stayed for a while .,tom tinggal selama beberapa waktu .
+2113,2113,tom was a little drunk .,tom sedikit mabuk .
+2114,2114,tom was very surprised .,tom sangat terkejut .
+2121,2121,we re all very excited .,kami semua sangat bersemangat .
+2122,2122,we re lucky aren t we ?,kita beruntung kan ?
+2123,2123,we re lucky aren t we ?,kami beruntung kan ?
+2130,2130,what is your name sir ?,siapa nama anda pak ?
+2131,2131,what is your specialty ?,jurusanmu apa ?
+2135,2135,what s your major tom ?,apa jurusanmu tom ?
+2136,2136,what s your occupation ?,apa pekerjaanmu ?
+2137,2137,what s your speciality ?,jurusanmu apa ?
+2140,2140,where did you try them ?,di mana kamu mencobanya ?
+2142,2142,where is the newspaper ?,korannya mana ?
+2154,2154,you are my best friend .,kau adalah sahabat karibku .
+2169,2169,you re perfectly right .,kau memang benar .
+2170,2170,you re very courageous .,kamu berani sekali .
+2173,2173,are you attracted to me ?,apa kau tertarik padaku ?
+2174,2174,are you sure about that ?,apa kau yakin dengan hal itu ?
+2175,2175,are you sure about this ?,apa kau yakin dengan hal ini ?
+2191,2191,do you feel like eating ?,apa kau mau makan ?
+2192,2192,do you really mean that ?,apa kau serius mengatakannya ?
+2193,2193,do you still read books ?,apa kau masih membaca buku buku ?
+2194,2194,do you want some coffee ?,ingin minum kopi ?
+2195,2195,do you want to use mine ?,apa kamu mau pinjam punyaku ?
+2196,2196,don t go out after dark .,jangan pergi keluar setelah hari menjadi gelap .
+2197,2197,don t make a fool of me .,jangan mempermainkanku .
+2198,2198,don t play in this room .,jangan bermain di kamar ini .
+2199,2199,don t read in this room .,jangan membaca di kamar ini .
+2213,2213,he s my younger brother .,dia adikku .
+2214,2214,he s my younger brother .,dia adik laki lakiku .
+2223,2223,i am disgusted with you .,aku sudah muak denganmu .
+2224,2224,i am not good at sports .,aku tidak jago dalam hal olahraga .
+2276,2276,i m glad you enjoyed it .,saya senang anda menikmatinya .
+2277,2277,i m pleased to meet you .,senang bertemu denganmu .
+2278,2278,i m so glad you re back .,aku sangat senang kau kembali .
+2279,2279,i m sorry to be so late .,maaf aku sudah terlambat cukup lama .
+2280,2280,i m still the boss here .,aku masih bosnya di sini .
+2288,2288,it s entirely up to you .,itu sepenuhnya terserah padamu .
+2289,2289,it s going to rain soon .,sebentar lagi hujan akan turun .
+2290,2290,it s very noisy in here .,di sini sangat berisik .
+2318,2318,she is very intelligent .,dia sangat pintar .
+2320,2320,she s not young is she ?,dia tidak muda ya .
+2342,2342,they re all watching tv .,mereka semua menonton tv .
+2361,2361,tom is a friend of mine .,tom adalah seorang kawanku .
+2362,2362,tom is a friend of mine .,tom adalah seorang temanku .
+2363,2363,tom is in constant pain .,tom merasakan sakit yang tidak ada henti hentinya .
+2368,2368,tom said he s no expert .,tom berkata dia bukan ahlinya .
+2369,2369,tom says the same thing .,tom mengatakan hal yang sama .
+2370,2370,tom says this is absurd .,tom berkata ini tidak masuk akal .
+2371,2371,tom says this is normal .,tom berkata ini normal .
+2372,2372,tom seemed uninterested .,tom terlihat tidak tertarik .
+2373,2373,tom signed the document .,tom menandatangani dokumennya .
+2374,2374,tom sleeps all the time .,tom tidur sepanjang waktu .
+2375,2375,tom still has some time .,tom masih ada waktu .
+2376,2376,tom still loves his job .,tom masih menyukai pekerjaannya .
+2377,2377,tom still loves it here .,tom masih betah disini .
+2383,2383,tom was late for dinner .,tom terlambat untuk makan malam .
+2384,2384,tom was shocked by this .,tom syok karena ini .
+2385,2385,tom was shot and killed .,tom tertembak dan terbunuh .
+2386,2386,tom was shot and killed .,tom ditembak dan dibunuh .
+2387,2387,tom was shot and killed .,tom ditembak dan terbunuh .
+2388,2388,tom wasn t a bit sleepy .,tom tidak sedang mengantuk .
+2395,2395,we are having a meeting .,kami sedang rapat .
+2411,2411,we re worried about you .,kami mengkhawatirkanmu .
+2415,2415,what are you doing here ?,apa yang sedang kamu lakukan di sini ?
+2416,2416,what are you looking at ?,apa yang sedang kamu lihat ?
+2425,2425,what should we focus on ?,kita harus fokus pada apa ?
+2426,2426,what should we focus on ?,kami harus fokus pada apa ?
+2427,2427,what sports do you like ?,olahraga apa yang kau sukai ?
+2432,2432,what s happening to you ?,kamu kenapa ?
+2433,2433,what s your destination ?,tujuanmu ke mana ?
+2459,2459,you are a good customer .,anda seorang pelanggan yang baik .
+2474,2474,you re absolutely right .,kau memang benar .
+2475,2475,you re completely right .,kau memang benar .
+2476,2476,you re taller than i am .,kau lebih tinggi ketimbang aku .
+2485,2485,are you buying into this ?,apa kau percaya akan hal ini ?
+2486,2486,are you expecting anyone ?,apakah kamu sedang menunggu seseorang ?
+2487,2487,are you fond of swimming ?,apakah kamu sangat menyukai berenang ?
+2488,2488,are you off duty tonight ?,apa kau tidak bertugas malam ini ?
+2489,2489,are you on the committee ?,apakah anda anggota dari komite ?
+2494,2494,do you have a light beer ?,apa kalian punya bir ringan ?
+2495,2495,do you have enough money ?,apakah kamu punya uang cukup ?
+2496,2496,do you know who they are ?,tahukah anda siapa mereka itu ?
+2497,2497,do you like french wines ?,apa kau suka minuman anggur prancis ?
+2498,2498,do you mean what you say ?,apa kau serius dengan apa yang kau katakan ?
+2499,2499,do you plan to go abroad ?,apa kamu berencana pergi ke luar negeri ?
+2500,2500,do you think i m kidding ?,apa kamu pikir aku bercanda ?
+2501,2501,do you want to try it on ?,anda mau mencobanya ?
+2503,2503,don t be late for school .,jangan terlambat datang ke sekolah .
+2504,2504,don t make fun of people .,jangan mempermainkan orang lain .
+2505,2505,don t pick up that phone .,jangan angkat telepon itu .
+2506,2506,don t scare me like that !,jangan menakut nakutiku seperti itu !
+2507,2507,don t smoke in this room .,jangan merokok di ruangan ini .
+2508,2508,don t you ever come back .,jangan pernah kau kembali .
+2509,2509,don t you have a bicycle ?,apakah kamu punya sepeda ?
+2510,2510,don t you have a bicycle ?,apakah anda punya sepeda ?
+2511,2511,don t you have a bicycle ?,bukannya kamu punya sepeda ?
+2512,2512,don t you have a bicycle ?,bukannya anda punya sepeda ?
+2527,2527,he is certain to succeed .,dia pasti berhasil .
+2528,2528,he is not coming either .,dia juga tidak datang .
+2529,2529,he is painting a picture .,dia sedang melukis sebuah gambar .
+2539,2539,i am pleased to meet you .,senang bertemu denganmu .
+2540,2540,i am pleased with myself .,aku merasa senang dengan diriku sendiri .
+2599,2599,i m tom and this is mary .,saya tom dan ini mary .
+2600,2600,i m getting sick of this .,aku mulai muak dengan hal ini .
+2601,2601,i m going to go clean up .,aku mau bersih bersih .
+2602,2602,i m going to go with you .,aku akan pergi denganmu .
+2603,2603,i m in trouble aren t i ?,aku dalam masalah ya ?
+2604,2604,i m not afraid of ghosts .,aku tidak takut dengan hantu .
+2605,2605,i m not convinced at all .,aku tidak terbujuk sama sekali .
+2606,2606,i m so happy you re back .,aku senang sekali kamu kembali .
+2607,2607,i m sorry i let you down .,aku minta maaf sudah mengecewakanmu .
+2608,2608,i m working in tokyo now .,aku bekerja di tokyo sekarang .
+2617,2617,it s a beautiful country .,ini adalah negara yang sangat indah .
+2618,2618,it s not about the money .,ini bukan soal uang .
+2619,2619,it s not good to overeat .,terlalu banyak makan itu tidak baik .
+2649,2649,she s wearing sunglasses .,ia mengenakan kacamata hitam .
+2680,2680,tom is a college student .,tom adalah seorang mahasiswa .
+2681,2681,tom is a convicted felon .,tom adalah penjahat terhukum .
+2682,2682,tom is acting on his own .,tom bertindak atas kemauannya sendiri .
+2683,2683,tom is one of my friends .,tom adalah salah satu dari temanku .
+2684,2684,tom is probably sleeping .,tom mungkin sedang tidur .
+2685,2685,tom is trying not to cry .,tom mencoba untuk tidak menangis .
+2686,2686,tom isn t afraid to fail .,tom tidak takut gagal .
+2698,2698,tom says he s busy today .,tom berkata dia sibuk hari ini .
+2699,2699,tom seemed kind of upset .,tom terlihat seperti sedang sedih .
+2700,2700,tom stared at the ground .,tom melihat ke arah tanah .
+2706,2706,tom was anxious to leave .,tom cemas untuk pergi .
+2707,2707,tom was looking for help .,tom sedang mencari pertolongan .
+2708,2708,tom was murdered by mary .,tom dibunuh mary .
+2712,2712,we are worried about you .,kami mengkhawatirkanmu .
+2724,2724,what are you going to do ?,apa yang akan kau lakukan ?
+2725,2725,what are you laughing at ?,kau menertawakan apa ?
+2726,2726,what are you looking for ?,apa yang sedang kamu cari ?
+2727,2727,what are you snacking on ?,kamu lagi ngemil apa ?
+2728,2728,what are you up to today ?,apa yang ingin kamu lakukan hari ini ?
+2729,2729,what are your intentions ?,apa tujuanmu ?
+2757,2757,you are absolutely right .,kau memang benar .
+2776,2776,are you going to shoot me ?,apa kau akan menembakku ?
+2777,2777,are you having a busy day ?,apa harimu sibuk ?
+2778,2778,are you telling the truth ?,apa kau mengatakan yang sebenarnya ?
+2788,2788,do you have any allergies ?,apa anda punya alergi ?
+2789,2789,do you have any questions ?,apakah ada pertanyaan ?
+2790,2790,do you know what happened ?,apa kau tahu apa yang sedang terjadi ?
+2791,2791,do you like peanut butter ?,kamu suka selai kacang ?
+2792,2792,do you understand me tom ?,apakah kamu memahami maksudku tom ?
+2793,2793,do you want to come along ?,apa kamu mau ikut ?
+2794,2794,do you work out regularly ?,apakah kamu berolahraga secara rutin ?
+2797,2797,don t look at me that way .,jangan melihatku seperti itu !
+2798,2798,don t trust what tom says .,jangan percaya pada apa yang tom katakan .
+2826,2826,he s sleeping like a baby .,dia tidur seperti bayi .
+2827,2827,he s standing on his head .,dia berdiri di atas kepalanya .
+2837,2837,i am going to play tennis .,saya akan bermain tenis .
+2838,2838,i am living the good life .,aku menjalani hidup yang baik .
+2890,2890,i m delighted to meet you .,senang bertemu denganmu .
+2891,2891,i m glad i could help out .,saya senang bisa membantu .
+2892,2892,i m going to be out today .,aku akan bepergian hari ini .
+2893,2893,i m going to the restroom .,saya akan pergi ke toilet sebentar .
+2894,2894,i m looking forward to it .,aku menantikannya .
+2895,2895,i m not always so lenient .,aku tidak selalu bersikap toleran .
+2896,2896,i m not really that sorry .,aku tidak begitu menyesal .
+2897,2897,i m not what i used to be .,aku tidak sama seperti dulu .
+2898,2898,i m telling you the truth .,aku mengatakan padamu yang sebenarnya .
+2911,2911,it seems overpriced to me .,sepertinya itu terlalu mahal bagiku .
+2912,2912,it s ok to be scared tom .,tak apa untuk takut tom .
+2913,2913,it s ok to be scared tom .,tidak masalah merasa takut tom .
+2914,2914,it s tom s birthday today .,hari ini ulang tahun tom .
+2915,2915,it s time to go to school .,waktunya pergi ke sekolah .
+2940,2940,she s got the best grades .,dia mendapatkan nilai terbaik .
+2941,2941,she s pregnant with twins .,kandungannya kembar .
+2977,2977,tom is mary s best friend .,tom adalah teman baik mary .
+2978,2978,tom is a lot better today .,tom jauh lebih baik hari ini .
+2979,2979,tom is careless isn t he ?,tom itu masa bodoh kan ?
+2980,2980,tom is finishing his work .,tom sedang menyelesaikan pekerjaannya .
+2981,2981,tom is growing a mustache .,tom menumbuhkan kumis .
+2982,2982,tom is here to protect me .,tom di sini untuk melindungiku .
+2983,2983,tom is mentally disturbed .,tom terganggu secara mental .
+2984,2984,tom is not in his bedroom .,tom tidak sedang berada di kamarnya .
+2985,2985,tom is sitting on a chair .,tom sedang duduk diatas sebuah kursi .
+2986,2986,tom isn t afraid of death .,tom tidak takut mati .
+2987,2987,tom isn t as rich as mary .,tom tidak sekaya mary .
+2988,2988,tom isn t very photogenic .,tom tidak terlalu cocok untuk difoto .
+2989,2989,tom isn t watching tv now .,tom tidak sedang menonton tv sekarang .
+3002,3002,tom was in seventh heaven .,tom sudah ada di langit ketujuh
+3003,3003,tom was working part time .,tom bekerja paruh waktu .
+3008,3008,we are having a good time .,kami bersenang senang .
+3017,3017,we re all so proud of you .,kami semua sangat bangga padamu .
+3018,3018,we re going to be rescued .,kita akan diselamatkan .
+3031,3031,what symptoms do you have ?,gejala gejala apa saja yang anda alami ?
+3038,3038,what s that on your shirt ?,apa yang ada di bajumu itu ?
+3039,3039,what s your friend s name ?,nama temanmu siapa ?
+3049,3049,where did you get the hat ?,dari mana kamu dapat topi itu ?
+3051,3051,where is the bus terminal ?,di mana terminal busnya ?
+3052,3052,where is the nearest bank ?,di mana bank terdekat ?
+3053,3053,where s the train station ?,stasiun kereta ada di mana ?
+3054,3054,where s the train station ?,ada di mana stasiun kereta apinya ?
+3055,3055,where s the train station ?,stasiun kereta apinya di mana ?
+3066,3066,you are selling him short .,kau meremehkan dia .
+3067,3067,you are tired aren t you ?,kamu lelah ya ?
+3080,3080,you re not yourself today .,kamu tidak seperti dirimu hari ini .
+3081,3081,you re too drunk to drive .,kau terlalu mabuk untuk mengemudi .
+3089,3089,are you a japanese student ?,apakah kamu siswa dari jepang ?
+3090,3090,are you certain about that ?,apa kau yakin dengan hal itu ?
+3091,3091,are you certain about this ?,apa kau yakin dengan hal ini ?
+3092,3092,are you sure that s enough ?,kamu yakin itu cukup ?
+3109,3109,do you belong to any clubs ?,apa kamu mengikuti sebuah klub ?
+3110,3110,do you go to school by bus ?,apa kau pergi ke sekolah dengan bus ?
+3111,3111,do you have life insurance ?,apakah anda memiliki asuransi jiwa ?
+3112,3112,do you know the difference ?,apakah anda tahu perbedaannya ?
+3113,3113,do you think that s enough ?,apa kamu pikir itu cukup ?
+3114,3114,don t beat around the bush .,jangan bicara berputar putar .
+3115,3115,don t worry about the past .,jangan mengkhawatirkan tentang masa lalu .
+3116,3116,don t you think it s risky ?,apakah anda tidak berfikir ini beresiko ?
+3130,3130,he s always late for class .,dia selalu telat ke kelas .
+3131,3131,he s always short of money .,dia selalu kekurangan uang .
+3139,3139,i am tired of hearing that .,saya bosan mendengar hal itu .
+3187,3187,i m listening to the radio .,saya sedang mendengarkan radio .
+3188,3188,i m living with my parents .,aku tinggal bersama orangtua .
+3189,3189,i m off to help my friends .,aku pergi membantu teman temanku .
+3198,3198,it s a confidential matter .,ini perihal yang rahasia .
+3199,3199,it s all happening so fast .,semuanya terjadi begitu cepat .
+3200,3200,it s more than you deserve .,itu lebih dari yang kamu minta .
+3201,3201,it s none of your business .,ini bukan urusanmu .
+3202,3202,it s very cold in my house .,di rumahku sangat dingin .
+3226,3226,she is playing with a doll .,dia bermain dengan boneka .
+3263,3263,tom is a self educated man .,tom adalah seorang otodidak .
+3264,3264,tom is bleeding internally .,tom mengalami pendarahan dalam .
+3265,3265,tom is impatient isn t he ?,tom tidak sabaran ya ?
+3266,3266,tom is itching for a fight .,tom sudah tidak tahan ingin berkelahi .
+3267,3267,tom is three years old now .,tom saat ini berusia tiga tahun .
+3268,3268,tom is trying not to laugh .,tom sedang berusaha untuk tidak tertawa
+3276,3276,tom seemed to be surprised .,tom terlihat terkejut .
+3277,3277,tom shot mary with a rifle .,tom menembak mary dengan senapan .
+3278,3278,tom speaks relatively fast .,tom bicaranya relatif cepat .
+3280,3280,tom was working last night .,tom bekerja semalam .
+3283,3283,tom s hair has turned gray .,rambut tom sudah memutih .
+3287,3287,we are about to leave here .,kami baru saja akan pergi meninggalkan tempat ini .
+3299,3299,we re going to the theater .,kami akan pergi ke teater .
+3302,3302,what a pity she can t come !,sayang sekali dia tidak bisa datang .
+3303,3303,what are you going to play ?,apa yang akan kamu mainkan ?
+3304,3304,what are you talking about ?,apa yang sedang kamu bicarakan ?
+3307,3307,what s always on your mind ?,apa yang selalu membuatmu khawatir ?
+3308,3308,what s in fashion in paris ?,apa yang sedang mengetren di paris ?
+3309,3309,what s the matter with you ?,ada apa denganmu ?
+3310,3310,what s your favorite sport ?,apa olahraga favoritmu ?
+3311,3311,what s your marital status ?,apa status perkawinanmu ?
+3315,3315,where did you get this key ?,di mana kamu mendapatkan kunci ini ?
+3316,3316,where did you learn french ?,di mana anda belajar bahasa prancis ?
+3318,3318,where is the train station ?,stasiun kereta ada di mana ?
+3319,3319,where is the train station ?,ada di mana stasiun kereta apinya ?
+3320,3320,where is the train station ?,stasiun kereta apinya di mana ?
+3332,3332,you are always complaining .,kamu selalu saja mengeluh .
+3333,3333,you are deceiving yourself .,kamu sedang menipu dirimu sendiri .
+3357,3357,do you believe in evolution ?,apa kau percaya pada evolusi ?
+3358,3358,do you ever think about tom ?,pernahkah kamu memikirkan tentang tom ?
+3359,3359,do you have any soft drinks ?,apakah kamu punya minuman ringan ?
+3360,3360,do you have time on tuesday ?,apakah anda ada waktu luang di hari selasa ?
+3361,3361,do you know what time it is ?,apa kamu tahu jam berapa sekarang ?
+3362,3362,do you need a place to stay ?,apakah anda butuh tempat tinggal ?
+3363,3363,do you want anything to eat ?,apa kau mau makan ?
+3364,3364,do you want anything to eat ?,apa kau ingin makan sesuatu ?
+3365,3365,do you want it gift wrapped ?,apa anda ingin ini dibungkus ?
+3366,3366,do you want to eat anything ?,apa kau ingin makan sesuatu ?
+3367,3367,don t be noisy in this room .,jangan ribut di ruangan ini .
+3368,3368,don t make me go back there .,jangan membuatku kembali ke sana .
+3369,3369,don t walk alone after dark .,jangan berjalan seorang diri setelah hari menjadi gelap .
+3398,3398,i am dying to see her again .,aku benar benar rindu untuk bertemu dengannya lagi .
+3441,3441,i m always surprised by him .,dia selalu membuatku terkejut .
+3442,3442,i m glad i was able to help .,saya senang bisa membantu .
+3443,3443,i m just looking thank you .,tidak terima kasih saya hanya melihat lihat saja .
+3444,3444,i m looking for another job .,saya sedang mencari pekerjaan yang lain .
+3445,3445,i m not sure where to start .,aku tidak tahu mulai dari mana .
+3446,3446,i m sorry to disappoint you .,aku minta maaf sudah mengecewakanmu .
+3447,3447,i m taking a walk in a park .,aku berjalan jalan di taman .
+3461,3461,it s an ecological disaster .,ini adalah sebuah bencana ekologis .
+3462,3462,it s been snowing all night .,salju turun sepanjanng malam .
+3463,3463,it s good that tom did that .,baguslah jika tom yang melakukannya .
+3464,3464,it s only a ten minute walk .,hanya sepuluh menitan berjalan kaki .
+3465,3465,it s six degrees below zero .,enam derajat dibawah nol .
+3466,3466,it s very cold this evening .,sore ini sangat dingin .
+3520,3520,tom is a university student .,tom adalah mahasiswa .
+3521,3521,tom is obsessed with trains .,tom terobsesi dengan kereta api .
+3522,3522,tom is peeling the potatoes .,tom sedang mengupasi kentang kentangnya .
+3523,3523,tom is playing with his son .,tom bermain dengan anak laki lakinya .
+3524,3524,tom is relocating to boston .,tom pindah ke boston .
+3525,3525,tom is waiting for mary now .,tom sedang menunggu mary sekarang .
+3526,3526,tom isn t going to hurt you .,tom tidak akan menyakitimu .
+3538,3538,tom said that for the laugh .,tom mengatakannya sebagai hiburan .
+3539,3539,tom says everyone does that .,tom mengatakan semua orang melakukannya .
+3540,3540,tom seems a little confused .,tom sepertinya agak kebingungan .
+3541,3541,tom seems to be sympathetic .,tom terlihat bersimpati .
+3542,3542,tom shouldn t even be there .,tom bahkan tidak semestinya berada di sana .
+3545,3545,tom was completely worn out .,tom benar benar kelelahan .
+3559,3559,we re going to watch a play .,kami akan pergi melihat sebuah pementasan drama .
+3562,3562,what are you all looking at ?,kamu sedang melihat apa ?
+3563,3563,what are you going to drink ?,kamu mau minum apa ?
+3564,3564,what are you going to drink ?,kau mau minum apa ?
+3565,3565,what are you going to drink ?,mau minum apa ?
+3566,3566,what are you going to drink ?,apa yang ingin kau minum ?
+3567,3567,what are you thinking about ?,apa yang sedang kamu pikirkan ?
+3571,3571,what is the matter with you ?,ada apa denganmu ?
+3572,3572,what is your favorite sport ?,apa olahraga favoritmu ?
+3573,3573,what is your favorite sport ?,apa olahraga favorit anda ?
+3574,3574,what size shoes do you wear ?,berapa ukuran sepatu yang kamu kenakan ?
+3575,3575,what sport do you like best ?,olahraga apa yang paling anda sukai ?
+3583,3583,what s your favorite number ?,apa angka favoritmu ?
+3586,3586,where did you buy that book ?,di mana kamu membeli buku itu ?
+3612,3612,you re really a hard worker .,kau benar benar seorang pekerja keras .
+3613,3613,you re thirty minutes early .,kamu lebih cepat tiga puluh menit .
+3617,3617,are you angry at what i said ?,apakah kamu marah pada apa yang aku katakan ?
+3618,3618,are you guys sure about this ?,apa kalian yakin dengan hal ini ?
+3619,3619,are you meeting someone here ?,apakah kau akan menemui seseorang di sini ?
+3620,3620,are you the person in charge ?,apakah kau adalah orang yang bertugas di sini ?
+3624,3624,do you have feelings for tom ?,apakah kamu memiliki perasaan terhadap tom ?
+3625,3625,do you have something to say ?,apa ada sesuatu yang ingin kau katakan ?
+3626,3626,do you want some pumpkin pie ?,apa kamu mau beberapa potong kue pai ?
+3627,3627,do you want something to eat ?,apa kau ingin makan sesuatu ?
+3628,3628,do you want to eat something ?,apa kau ingin makan sesuatu ?
+3629,3629,do you want to give it a try ?,anda mau mencobanya ?
+3630,3630,don t expect too much of him .,jangan terlalu berharap padanya .
+3631,3631,don t expect too much of him .,jangan berharap terlalu banyak padanya .
+3632,3632,don t forget to pay the rent .,jangan lupa untuk membayar biaya sewanya .
+3633,3633,don t make a scene in public .,jangan buat keributan di depan umum .
+3634,3634,don t make noise . keep quiet .,jangan berisik . harap tenang .
+3635,3635,don t underestimate my power .,jangan meremehkan kekuatanku .
+3654,3654,he is allergic to house dust .,dia alergi pada debu rumah .
+3655,3655,he is anxious to go with you .,dia ingin sekali pergi denganmu .
+3656,3656,he is eager to become famous .,dia ingin menjadi terkenal .
+3657,3657,he is known as a rock singer .,dia dikenal sebagai seorang penyanyi rok .
+3658,3658,he is trying to quit smoking .,dia sedang berusaha untuk berhenti merokok .
+3659,3659,he is indeed a hard worker .,dia memang seorang pekerja keras .
+3663,3663,he s collecting various data .,dia mengumpulkan berbagai data .
+3677,3677,i am going to tokyo tomorrow .,aku akan pergi ke tokyo besok .
+3724,3724,i m going to wait until .,kutunggu sampai pukul .
+3725,3725,i m going to wait until .,akan kutunggu sampai pukul .
+3726,3726,i m no longer afraid of dogs .,aku tidak lagi takut anjing .
+3727,3727,i m not asking for your help .,aku tidak meminta bantuanmu .
+3728,3728,i m pretty good at first aid .,saya cukup ahli dalam pertolong pertama .
+3729,3729,i m sorry i disappointed you .,aku minta maaf sudah mengecewakanmu .
+3730,3730,i m sure you understand that .,aku yakin kau memahaminya .
+3731,3731,i m writing a song in french .,aku menulis sebuah lagu dalam bahasa prancis .
+3737,3737,it seemed like a dream to me .,ini terasa seperti mimpi bagiku .
+3742,3742,it s tom who deserves credit .,tomlah yang pantas mendapatkan penghargaan .
+3743,3743,it s a privilege to meet you .,sebuah kehormatan bisa bertemu anda .
+3744,3744,it s already started to rain .,sudah mulai turun hujan .
+3745,3745,it s clear that you re wrong .,kau jelas jelas sudah salah .
+3746,3746,it s important to read books .,sangat penting untuk membaca buku .
+3768,3768,she is eight months pregnant .,dia hamil delapan bulan .
+3769,3769,she is singing with a guitar .,dia bernyanyi dengan gitar .
+3793,3793,they re very cheerful people .,mereka merupakan orang orang yang ceria .
+3802,3802,tom is a computer programmer .,tom adalah seorang pemrogram komputer .
+3803,3803,tom is a high school student .,tom adalah seorang siswa sma .
+3804,3804,tom is leaving in three days .,tom akan berangkat dalam tiga hari .
+3805,3805,tom is mowing his front lawn .,tom sedang memotong rumput di halaman depannya .
+3806,3806,tom is still in the hospital .,tom masih berada di rumah sakit .
+3823,3823,tom saw his name on the list .,tom berkata dia melihat namanya pada daftar .
+3824,3824,tom says i m a good listener .,tom berkata saya adalah pendengar yang baik .
+3826,3826,tom was out with his friends .,tom sedang pergi bersama dengan temannya .
+3833,3833,we re very lucky to be alive .,kita beruntung sudah hidup .
+3834,3834,we re very lucky to be alive .,kami beruntung sudah hidup .
+3847,3847,what s the fare to liverpool ?,berapa tarif untuk ke liverpool ?
+3848,3848,what s your favorite subject ?,apa pelajaran favoritmu ?
+3855,3855,where is the railway station ?,stasiun kereta ada di mana ?
+3856,3856,where is the railway station ?,ada di mana stasiun kereta apinya ?
+3857,3857,where is the railway station ?,stasiun kereta apinya di mana ?
+3866,3866,you aren t busy now are you ?,kamu nggak sibuk kan sekarang ?
+3874,3874,you re still mad aren t you ?,kamu masih marah ya ?
+3890,3890,do you eat at home or eat out ?,apakah anda makan dirumah atau makan diluar ?
+3891,3891,do you happen to have matches ?,apa kamu mempunyai korek ?
+3892,3892,do you know where we re going ?,apa kamu tahu kemana kita akan pergi ?
+3893,3893,do you live with your parents ?,apa kamu tinggal dengan orangtuamu ?
+3894,3894,do you mind turning on the tv ?,bisa minta tolong nyalakan tv nya ?
+3895,3895,do you want me to do anything ?,ada sesuatu yang kamu ingin aku lakukan ?
+3896,3896,do you want me to go with you ?,kamu ingin aku ikut denganmu ?
+3897,3897,do you want to drink some tea ?,kamu mau minum teh ?
+3898,3898,don t come so early next time .,lain kali jangan datang terlalu awal .
+3899,3899,don t tell me you re quitting .,jangan katakan kalau kau berhenti .
+3915,3915,he is no better than a beggar .,dia tidak lebih baik daripada seorang pengemis .
+3916,3916,he is the image of his father .,dia adalah gambaran dari ayahnya .
+3917,3917,he is too drunk to drive home .,ia terlalu mabuk untuk berkemudi menuju rumah .
+3923,3923,he s attracted to black women .,dia tertarik pada wanita berkulit hitam .
+3924,3924,he s not cut out for teaching .,dia tidak cocok untuk mengajar .
+3976,3976,i m about the same age as you .,aku hampir seusia denganmu .
+3977,3977,i m afraid tom might get hurt .,saya khawatir tom akan terluka .
+3978,3978,i m afraid it s going to rain .,aku takut sebentar lagi akan turun hujan .
+3979,3979,i m coming over to your place .,aku mampir ke tempatmu .
+3980,3980,i m extremely grateful to you .,saya benar benar sangat berterima kasih
+3981,3981,i m going to europe next week .,aku akan pergi ke eropa minggu depan .
+3982,3982,i m going to go get some food .,aku pergi untuk membeli makanan .
+3983,3983,i m taking an exam in january .,aku mengikuti ujian pada januari .
+3984,3984,i m tired of eating fast food .,aku sudah bosan memakan makanan siap saji .
+3992,3992,it s exactly as you say it is .,tepat seperti apa yang anda katakan .
+3993,3993,it s exactly as you say it is .,tepat seperti yang kau katakan .
+4015,4015,she saw him eating a sandwich .,dia melihatnya memakan roti lapis .
+4016,4016,she s really smart isn t she ?,dia benar benar pintar ya ?
+4054,4054,tom is almost always cheerful .,tom hampir selalu bahagia .
+4055,4055,tom is an electrical engineer .,tom adalah seorang sarjana arus kuat .
+4056,4056,tom is disagreeable isn t he ?,tom merasa terganggu bukan ?
+4057,4057,tom is playing the violin now .,tom sedang bermain violin sekarang .
+4058,4058,tom is taller than his mother .,tom lebih tinggi daripada ibunya .
+4059,4059,tom is very worried about you .,tom sangat mengkhawatirkan kamu .
+4060,4060,tom isn t quite himself today .,tom tidak seperti dirinya hari ini .
+4075,4075,tom said he ll call you later .,tom berkata dia akan menghubungi kamu kembali .
+4076,4076,tom saw mary break the window .,tom melihat mary memecahkan kaca jendela .
+4077,4077,tom should be back any second .,tom seharusnya sudah kembali sekarang .
+4078,4078,tom sometimes comes home late .,tom kadang kadang telat pulang ke rumah .
+4080,4080,tom s methods were unorthodox .,metode metode milik tom tidak lazim .
+4096,4096,what s germany s largest lake ?,apa danau terbesar di jerman ?
+4097,4097,where is the railroad station ?,stasiun kereta ada di mana ?
+4098,4098,where is the railroad station ?,ada di mana stasiun kereta apinya ?
+4099,4099,where is the railroad station ?,stasiun kereta apinya di mana ?
+4113,4113,you re cuter than your sister .,kamu lebih manis ketimbang adikmu .
+4119,4119,are you going to school by bus ?,apa kau pergi ke sekolah dengan bus ?
+4126,4126,do you have a facebook account ?,apa kamu punya akun facebook ?
+4127,4127,do you have a driver s license ?,apa kau memiliki sim ?
+4128,4128,do you like playing volleyball ?,apa kau suka bermain voli ?
+4129,4129,do you want any of these books ?,apa kamu menginginkan buku buku ini ?
+4130,4130,do you want something to drink ?,apa kamu mau minum sesuatu ?
+4131,4131,don t make fun of other people .,jangan mempermainkan orang lain .
+4149,4149,he is often absent from school .,dia sering absen dari sekolah .
+4154,4154,he s in the hospital right now .,dia sedang di rumah sakit sekarang .
+4161,4161,i am ashamed of having done so .,saya malu telah melakukan hal tersebut .
+4162,4162,i am busy now and can t go out .,saya sedang sibuk dan tidak bisa pergi .
+4163,4163,i am pleased with my new house .,saya merasa senang dengan rumah baru saya .
+4164,4164,i am positive that he is wrong .,aku yakin bahwa dia salah .
+4203,4203,i m glad i could be of service .,saya senang bisa membantu .
+4204,4204,i m here to help you actually .,aku di sini untuk membantumu sebenarnya .
+4212,4212,it stopped snowing an hour ago .,saljunya berhenti turun sejam yang lalu .
+4233,4233,she s a beauty from a distance .,dia cantik dari jauh .
+4251,4251,they are not at all interested .,mereka tidak tertarik sama sekali .
+4268,4268,tom is years older than mary .,tom tiga tahun lebih tua dari mary .
+4269,4269,tom is on good terms with john .,tom berteman baik dengan john .
+4281,4281,tom set the alarm on his watch .,tom mengatur pengingat pada jamnya .
+4282,4282,tom started clearing the table .,tom mulai membersihkan meja .
+4291,4291,tom s skull has been fractured .,tempurung kepala tom retak .
+4292,4292,tom s speech quieted the crowd .,pidato tom membuat hadirin terdiam .
+4297,4297,we are working for world peace .,kami bekerja demi perdamaian dunia .
+4306,4306,we re here to support you tom .,kami di sini untuk mendukungmu tom .
+4307,4307,we re in the same group right ?,kita dalam grup yang sama kan ?
+4327,4327,you are no longer a mere child .,kamu bukan lagi seorang anak kecil .
+4346,4346,are you absolutely sure of that ?,apa kau benar benar yakin dengan hal itu ?
+4358,4358,do you commute to school by bus ?,apa kau pulang pergi ke sekolah dengan bus ?
+4359,4359,do you feel like going swimming ?,apa kamu mau pergi berenang ?
+4360,4360,do you think tom is still alive ?,menurutmu tom masih hidup ?
+4361,4361,do you think tom is still alive ?,apa menurutmu tom masih hidup ?
+4362,4362,don t let tom hear you say that .,jangan biarkan tom mendengarkanmu mengatakan itu .
+4363,4363,don t make a decision right now .,jangan buat keputusan sekarang !
+4364,4364,don t you remember the question ?,apakah kamu tidak ingat pertanyaannya ?
+4397,4397,i am badly in need of your help .,aku sangat membutuhkan bantuanmu .
+4398,4398,i am busy cooking at the moment .,saat ini saya sedang sibuk memasak .
+4399,4399,i am leaving for tokyo tomorrow .,aku akan pergi ke tokyo besok .
+4436,4436,i m getting ready for the worst .,aku bersiap untuk kemungkinan terburuk .
+4437,4437,i m glad you could make it tom .,aku bersyukur kamu dapat melakukannya tom .
+4438,4438,i m going over to tom s tonight .,aku akan pergi ke rumah tom malam ini .
+4439,4439,i m just trying to help you out .,aku hanya ingin membantumu .
+4440,4440,i m looking for a part time job .,saya sedang mencari pekerjaan paruh waktu .
+4441,4441,i m not sure how i can help you .,aku tidak yakin bagaimana bisa membantumu .
+4442,4442,i m not sure if this is correct .,aku tidak yakin jika ini benar .
+4443,4443,i m not sure but he might come .,saya tidak yakin tapi dia mungkin datang .
+4453,4453,it s a pity that you can t come .,sayang sekali anda tidak bisa datang .
+4472,4472,she is looking for her car keys .,dia sedang mencari kunci mobilnya .
+4473,4473,she set it aside for future use .,dia menyimpannya agar bisa digunakan nanti .
+4505,4505,tom is a personal enemy of mine .,tom adalah musuh pribadi saya .
+4506,4506,tom is alone in the living room .,tom berada seorang diri di ruang keluarga .
+4507,4507,tom is getting ready for school .,tom bersiap pergi ke sekolah .
+4508,4508,tom is hiding something from us .,tom menyembunyikan sesuatu dari kita .
+4509,4509,tom is much taller than you are .,tom jauh lebih tinggi daripada kamu .
+4510,4510,tom is quick tempered isn t he ?,tom gampang marah ya ?
+4511,4511,tom is the tallest in his class .,tom adalah yang tertinggi di kelasnya .
+4512,4512,tom is wearing a biohazard suit .,tom mengenakan baju biobahaya .
+4523,4523,tom seemed to be very surprised .,tom terlihat sangat terkejut .
+4524,4524,tom seldom speaks to us anymore .,tom sudah jarang berbicara dengan kami .
+4525,4525,tom slowly walked up the stairs .,tom menaiki tangga secara perlahan .
+4526,4526,tom sold his house for .,tom menjual rumahnya .
+4538,4538,what are you punishing them for ?,untuk apa kau menghukum mereka ?
+4543,4543,where did you get your hair cut ?,di mana kamu mencukur rambut ?
+4564,4564,are you free on friday afternoon ?,apakah anda ada acara jumat siang ?
+4573,4573,do you have any questions for me ?,apa kau memiliki beberapa pertanyaan untukku ?
+4574,4574,do you know how to open this box ?,apakah kamu tahu cara membuka kotak ini ?
+4575,4575,do you know how to speak english ?,apa anda tahu bagaimana caranya berbicara dalam bahasa inggris ?
+4576,4576,do you play a musical instrument ?,apa kau memainkan sebuah instrumen musik ?
+4577,4577,do you realize what you re doing ?,apa kamu sadar akan apa yang kamu perbuat ?
+4578,4578,don t hesitate to ask for advice .,jangan sungkan untuk meminta saran .
+4579,4579,don t let anything slow you down .,jangan biarkan apapun memperlambat jalanmu .
+4590,4590,he s a carbon copy of his father .,dia adalah salinan dari ayahnya .
+4596,4596,i am acquainted with your father .,aku mengenal ayahmu .
+4620,4620,i m allergic to synthetic rubber .,aku alergi pada karet sintetis .
+4621,4621,i m quitting my job as a teacher .,saya berhenti dari pekerjaan saya sebagai seorang guru .
+4622,4622,i m sure i won t be disappointed .,saya yakin tidak akan kecewa .
+4623,4623,i m sure i ll be able to find it .,saya yakin saya akan dapat menemukannya .
+4631,4631,it s difficult to speak with him .,susah untuk berbicara dengannya .
+4648,4648,she suffocated him with a pillow .,ia mencekiknya dengan bantal .
+4673,4673,tom is almost as tall as you are .,tom hampir sama tingginya dengan kamu .
+4674,4674,tom is interested in mathematics .,tom tertarik pada matematika .
+4689,4689,tom says he can wait a long time .,tom berkata dia dapat menunggu lama .
+4690,4690,tom screamed as loud as he could .,tom berteriak sekencang kencangnya .
+4691,4691,tom seems very angry doesn t he ?,tom kelihatannya sangat marah ya ?
+4692,4692,tom slipped out of the classroom .,tom menyelinap keluar kelas .
+4698,4698,tom was confused by the question .,tom dibingungkan oleh pertanyaan itu .
+4699,4699,tom was unable to hide his tears .,tom tidak kuasa menahan air matanya .
+4701,4701,tom s father is a police officer .,ayah tom adalah seorang polisi .
+4702,4702,tom s parents were both teachers .,kedua orang tua tom adalah guru .
+4703,4703,tom s proposal wasn t acceptable .,lamaran tom tidak diterima .
+4716,4716,we re a little worried about tom .,kami sedikit khawatir dengan tom .
+4724,4724,what s it we re waiting for here ?,untuk apa kita menunggu di sini ?
+4725,4725,what s your favorite kind of art ?,jenis seni apa yang menjadi favorit anda ?
+4726,4726,what s your favorite winter food ?,apa makanan musim dingin favoritmu ?
+4742,4742,you re in better shape than i am .,anda berada dalam kondisi yang lebih baik daripada aku .
+4748,4748,are you joking or are you serious ?,kau main main atau serius ?
+4753,4753,do you guys want something to eat ?,apa kalian ingin makan sesuatu ?
+4754,4754,do you have a non smoking section ?,apakah ada area bebas rokok ?
+4755,4755,do you have an english dictionary ?,apa kau memiliki sebuah kamus bahasa inggris ?
+4756,4756,do you have any further questions ?,apakah ada pertanyaan lagi ?
+4757,4757,do you want to go swimming or not ?,kamu ingin pergi berenang atau tidak ?
+4758,4758,don t be afraid . i won t hurt you .,jangan takut . aku tidak akan melukaimu .
+4759,4759,don t you have an air conditioner ?,kamu tidak punya ac ?
+4765,4765,he is very sensitive to criticism .,ia sangat sensitif pada kritikan .
+4778,4778,i am sure of his passing the exam .,aku yakin dia akan berhasil melewati tesnya .
+4812,4812,i m so happy to be done with that .,aku sangat senang masalahnya sudah selesai .
+4813,4813,i m sorry but i m busy right now .,maaf tapi saya sibuk saat ini .
+4821,4821,it s natural for him to get angry .,wajar saja kalau dia marah .
+4835,4835,she is as beautiful as her mother .,dia secantik ibunya
+4836,4836,she is unable to cope with stress .,dia tidak mampu mengatasi stres .
+4863,4863,they are frantically backpedaling .,mereka mengayuh mundur sepedanya dengan panik .
+4865,4865,they re attempting to contact her .,mereka mencoba untuk menghubunginya .
+4883,4883,tom is playing catch with his son .,tom bermain lempar lemparan dengan anak laki lakinya .
+4884,4884,tom is quite successful isn t he ?,tom lumayan berhasil ya ?
+4885,4885,tom is ugly but he s really nice .,tom jelek tapi ia sangat baik .
+4899,4899,tom sat down and crossed his legs .,tom duduk dan menyilangkan kakinya .
+4900,4900,tom should ve kept his mouth shut .,tom seharusnya menutup mulutnya rapat .
+4901,4901,tom slowly looked around the room .,tom melihat sekitar ruangan secara perlahan .
+4902,4902,tom started to descend the stairs .,tom mulai menuruni tangganya .
+4923,4923,you re the prettiest girl in town .,kau adalah gadis tercantik di kota .
+4928,4928,are you feeling all right now tom ?,apakah kamu baik baik saja tom ?
+4932,4932,do you know what the difference is ?,apakah anda tahu perbedaannya ?
+4933,4933,do you want to play tennis with us ?,kamu mau main tenis bersama kami ?
+4935,4935,don t be afraid of making mistakes .,jangan takut membuat kesalahan .
+4936,4936,don t just eat fish . eat meat too .,jangan hanya makan ikan makan daging juga .
+4937,4937,don t you think that s a bit weird ?,bukankah itu agak aneh ?
+4941,4941,he is afraid to fly in an airplane .,dia takut terbang dengan pesawat .
+4942,4942,he is tired of watching television .,dia lelah menonton televisi .
+4955,4955,i am afraid that he might get hurt .,saya kuatir mungkin dia mendapatkan luka .
+4956,4956,i am going to go to tokyo tomorrow .,aku akan pergi ke tokyo besok .
+4980,4980,i m getting sick and tired of this .,aku mulai muak dan lelah dengan hal ini .
+4981,4981,i m not as healthy as i used to be .,aku tidak sesehat dulu .
+4982,4982,i m not sure what else i should do .,aku tidak yakin apa lagi yang harus aku lakukan .
+4983,4983,i m probably going to be busy soon .,aku mungkin akan sibuk sebentar lagi .
+4984,4984,i m sick of conferences these days .,akhir akhir ini aku bosan dengan rapat .
+4985,4985,i m sorry i didn t call last night .,maaf aku tidak meneleponmu semalam .
+4986,4986,i m still trying to get used to it .,aku masih berusaha membiasakan diri .
+4987,4987,i m the one who stole the painting .,akulah yang mencuri lukisan itu .
+4988,4988,i m tied up with this job recently .,aku sangat sibuk dengan pekerjaan ini akhir akhir ini .
+4996,4996,it s a pity that you can t join us .,sangat disayangkan anda tidak dapat bergabung dengan kami .
+4997,4997,it s a pity that you couldn t come .,sayang sekali kamu tidak bisa datang .
+4998,4998,it s not like you to cry at movies .,ini tidak seperti kamu menangis di bioskop .
+5011,5011,she is able to grasp the situation .,dia mampu memahami situasi yang ada .
+5012,5012,she is on the wrong side of twenty .,dia sudah berusia lebih dari tahun .
+5013,5013,she is very sensitive to criticism .,ia sangat sensitif pada kritikan .
+5044,5044,tom is exactly the same age as you .,tom itu seumuran dengan mu
+5056,5056,tom says he s cut down on drinking .,tom bilang dia mengurangi frekuensi minumnya .
+5057,5057,tom says he s feeling better today .,tom berkata dia merasa lebih baik hari ini .
+5058,5058,tom scolded his son for being late .,tom memarahi anak laki lakinya karena telah terlambat .
+5059,5059,tom scolded his son for being lazy .,tom memarahi anak laki lakinya karena telah malas .
+5060,5060,tom seems to understand what i say .,tom terlihat mengerti apa yang saya katakan .
+5061,5061,tom should arrive in a few minutes .,tom akan tiba beberapa menit lagi .
+5062,5062,tom should ve arrived by this time .,tom seharusnya sudah sampai sekarang .
+5063,5063,tom slammed the bathroom door shut .,tom menutup pintu kamar mandi secara keras .
+5066,5066,we are giving tom a birthday party .,kami akan berikan tom pesta ulang tahun .
+5075,5075,what subjects do you like the best ?,pelajaran apa yang paling kau sukai ?
+5096,5096,are you interested in baseball tom ?,tom kamu tertarik dengan permainan bisbol ?
+5101,5101,do you have a lot of money with you ?,apa kau membawa banyak uang ?
+5120,5120,i am quite comfortable in this room .,saya cukup nyaman di ruangan ini .
+5151,5151,i m going to try to go to sleep now .,aku akan mencoba untuk tidur sekarang .
+5152,5152,i m in love with the girl next door .,aku jatuh cinta dengan gadis sebelah .
+5153,5153,i m never wearing these shoes again .,aku tidak akan mengenakan sepatu sepatu ini lagi .
+5154,5154,i m not as stupid as you think i am .,saya tidak sebodoh yang kamu kira .
+5155,5155,i m not sure what else i need to do .,aku tidak yakin apa lagi yang perlu aku lakukan ?
+5156,5156,i m not used to treatment like that .,saya tidak terbiasa dengan perawatan seperti itu .
+5157,5157,i m writing a letter to my daughter .,aku menulis surat untuk putriku .
+5164,5164,it s a beautiful day here in boston .,hari ini adalah sebuah hari yang indah di boston .
+5174,5175,she starts her job at seven o clock .,dia mulai bekerja pada pukul tujuh .
+5200,5201,tom is considering joining the army .,tom mempertimbangkan untuk bergabung dengan militer .
+5201,5202,tom is interested in mountaineering .,tom tertarik pada pendakian gunung .
+5202,5203,tom is talking to mary on the phone .,tom sedang berbicara dengan mary di telepon .
+5217,5218,tom said he wanted to be left alone .,tom bilang dia ingin ditinggal sendiri .
+5218,5219,tom saw mary coming down the stairs .,tom melihat mary datang menuruni tangga .
+5219,5220,tom saw mary getting ready to leave .,tom melihat mary bersiap untuk pergi .
+5220,5221,tom saw mary heading into the woods .,tom melihat mary pergi ke hutan .
+5221,5222,tom seems to be looking for someone .,tom terlihat seperti sedang mencari seseorang .
+5222,5223,tom stirred his coffee with a spoon .,tom mengaduk kopinya dengan sebuah sendok .
+5230,5231,we re having a problem with pigeons .,kami bermasalah dengan merpati .
+5236,5237,where did you take your glasses off ?,di mana kamu melepas kacamatamu ?
+5256,5257,do you know what tom was doing there ?,apakah kamu tahu apa yang tom lakukan di sini ?
+5257,5258,do you understand what you re saying ?,apakah kamu paham dengan apa yang kamu katakan ?
+5258,5259,don t you regret getting that tattoo ?,tidakkah kamu menyesal membuat tato itu ?
+5261,5262,he is not always busy in the morning .,dia selalu sibuk di pagi hari .
+5265,5266,he s the last man that i want to see .,dialah pria terakhir yang ingin saya lihat .
+5289,5290,i m afraid tom won t be able to come .,aku rasa tom tidak akan bisa datang .
+5290,5291,i m afraid you don t have any choice .,kurasa kamu tidak punya pilihan lain .
+5291,5292,i m sorry i kept you waiting so long .,maaf membuatmu menunggu begitu lama .
+5292,5293,i m sorry did i say something wrong ?,maaf apakah ada yang salah dengan perkataanku ?
+5340,5341,tom is leaving kobe tomorrow morning .,tom akan meninggalkan kobe besok pagi .
+5341,5342,tom is still not answering his phone .,tom masih tidak mengangkat teleponnya .
+5342,5343,tom is the newest member of our team .,tom anggota terbaru tim kami .
+5343,5344,tom is the newest member of our team .,tom anggota terbaru tim kita .
+5349,5350,tom sat at his desk reading a report .,tom duduk membaca laporan di mejanya .
+5350,5351,tom saw mary s name on the list too .,tom juga melihat nama mary di daftar .
+5351,5352,tom says he s trying to quit smoking .,tom berkata dia sedang berusaha berhenti merokok .
+5352,5353,tom shouldn t have said those things .,tom tidak seharusnya mengucapkan perkataan itu .
+5353,5354,tom spends a lot of his time reading .,tom banyak menghabiskan waktunya dengan membaca .
+5361,5362,where s the nearest department store ?,di mana supermarket terdekat ?
+5371,5372,you re not the only one who s hungry .,bukan hanya kamu saja yang merasa lapar .
+5376,5377,are you absolutely certain about this ?,apa kau benar benar yakin dengan hal ini ?
+5377,5378,are you serious about getting married ?,apakah kamu serius ingin menikah ?
+5378,5379,are you taking any medicine regularly ?,apakah anda mengonsumsi obat obatan tertentu secara rutin ?
+5384,5385,do you also have this in other colors ?,apakah kamu juga punya ini dengan warna yang lain ?
+5385,5386,do you usually have tea for breakfast ?,apa kau biasa minum teh untuk sarapan ?
+5386,5387,do your children have their own rooms ?,apakah anak anakmu punya kamar sendiri
+5387,5388,do your children have their own rooms ?,anak anak lu punya kamar sendiri ga ?
+5419,5420,i m going to take full responsibility .,aku akan bertanggung jawab penuh .
+5426,5427,it s not going to be a problem is it ?,hal ini tidak akan menjadi masalah bukan ?
+5427,5428,it s not safe to text while you drive .,mengetik sms selagi anda mengemudi bisa membahayakan keselamatan anda .
+5466,5467,tom said he d never speak to me again .,tom berkata dia tidak akan pernah berbicara denganku lagi .
+5467,5468,tom saw a boy waiting at the bus stop .,tom melihat seorang anak laki laki menunggu di halte .
+5471,5472,tom was unable to hide his excitement .,tom tidak mampu menyembunyikan antusiasmenya .
+5472,5473,tom wasn t injured in the train wreck .,tom tidak terluka dalam kecelakaan kereta itu .
+5476,5477,what s your favorite item of clothing ?,pakaian apa yang paling kamu sukai ?
+5485,5486,are you spending thanksgiving with tom ?,apa kamu menghabiskan waktu bersama tom di hari thanksgiving ?
+5488,5489,do you believe the witness s statement ?,kamu percaya pernyataan saksi itu ?
+5489,5490,do you remember the night tom was born ?,apa kau ingat malam ketika tom lahir ?
+5490,5491,do you think tom looks like an old man ?,apa menurutmu tom terlihat seperti orang tua ?
+5491,5492,don t you know what happened yesterday ?,tidakkah kau tahu apa yang terjadi kemarin ?
+5568,5569,tom is preparing dinner in the kitchen .,tom mempersiapkan makan malam di dapur .
+5569,5570,tom is sitting at the table over there .,tom duduk di meja sebelah sana .
+5570,5571,tom is still in kindergarten isn t he ?,tom masih tk kan ?
+5571,5572,tom is three years older than his wife .,tom lebih tua tiga tahun dari istrinya .
+5572,5573,tom isn t any busier than anybody else .,tom tidak lebih sibuk dari siapa pun .
+5575,5576,tom shivered when he saw the black cat .,tom merinding ketika ia melihat kucing hitam itu .
+5576,5577,tom showed mary how to sharpen a knife .,tom menunjukkan mary bagaimana cara mengasah pisau .
+5577,5578,tom showed up early for practice today .,tom datang lebih awal untuk berlatih hari ini .
+5578,5579,tom suggested ways we could save money .,tom menyarankan cara cara agar kita dapat menghemat uang .
+5592,5593,you re wearing your sweater inside out .,kamu memakai sweter terbalik .
+5600,5601,don t leave the bicycle out in the rain .,jangan tinggalkan sepeda di bawah hujan .
+5611,5612,i am not sure how to pronounce the word .,saya tidak yakin bagaimana cara mengucapkan kata itu
+5628,5629,i m going to do what i believe is right .,aku akan melakukan apa yang aku yakini itu benar .
+5629,5630,i m not as big a fool as you think i am .,aku tidak sebodoh yang kamu kira .
+5630,5631,i m thinking about changing my supplier .,aku berpikir untuk mengganti pemasokku .
+5631,5632,i m very pleased with tom s performance .,saya sangat puas dengan penampilan tom .
+5673,5674,tom stood up and walked out of the room .,tom berdiri dan berjalan keluar ruangan .
+5680,5681,what s your favorite television program ?,apa acara televisi kesukaanmu ?
+5682,5683,where is the tourist information office ?,di mana letak kantor pusat informasi turis ?
+5683,5684,where s there a supermarket around here ?,di sekitar sini supermarket ada di mana ?
+5690,5691,are you serious about what you re saying ?,apa kau serius dengan apa yang kau katakan ?
+5694,5695,do you have a similar saying in japanese ?,apakah ada pepatah yang mirip dalam bahasa jepang ?
+5695,5696,do you have any questions about the food ?,apa kamu punya pertanyaan tentang makanannya ?
+5696,5697,do you know any of the boys in this room ?,apa kamu mengenal salah satu dari anak anak di ruangan ini ?
+5705,5706,he is on the point of leaving for canada .,dia akan segera berangkat menuju ke kanada .
+5732,5733,i m afraid the situation is very serious .,aku enggan mengatakannya tapi situasinya memang sangat serius .
+5733,5734,i m pretty impressed with tom s progress .,aku sangat terkesan dengan perkembangan tom .
+5734,5735,i m very sorry but we can t let you out .,maafkan saya tetapi kami tidak dapat mengeluarkanmu .
+5738,5739,it s hard not to come to this conclusion .,kesimpulan ini sulit untuk dipungkiri .
+5739,5740,it s on the first floor of that building .,itu ada di lantai satu dari bangunan itu .
+5748,5749,she stayed at the hotel for several days .,dia menginap di hotel beberapa hari .
+5777,5778,tom said doing that would be a good idea .,tom bilang hal itu merupakan ide bagus
+5778,5779,tom said that he wanted to be left alone .,tom berkata kalau dia ingin menyendiri .
+5779,5780,tom says he doesn t want to study french .,tom bilang dia tidak ingin belajar bahasa perancis .
+5780,5781,tom seemed to be worried about something .,tom terlihat mengkhawatirkan sesuatu .
+5781,5782,tom showed up at john and mary s wedding .,tom hadir pada pernikahan john dan mary .
+5782,5783,tom spends way too much time goofing off .,tom terlalu banyak menyia nyiakan waktu .
+5784,5785,tom was the first guy who broke my heart .,tom laki laki pertama yang membuatku patah hati .
+5808,5809,don t beat your head against a stone wall .,jangan benturkan kepalamu ke tembok batu .
+5809,5810,don t you think tom looks like an old man ?,apa menurutmu tom tidak terlihat seperti orang tua ?
+5817,5818,he s the head of the marketing department .,dia kepala dari departemen pemasaran .
+5829,5830,i m counting on you to keep an eye on tom .,aku mengandalkanmu untuk mengawasi tom .
+5830,5831,i m sorry but i already have a boyfriend .,maaf tapi saya sudah punya pacar .
+5831,5832,i m starting to lose my patience with you .,saya mulai kehilangan kesabaran terhadap anda .
+5861,5862,tom is alone in the dining room with mary .,tom berada seorang diri di ruang dapur bersama mary .
+5862,5863,tom is going to wait until mary gets here .,tom akan menunggu hingga mary tiba .
+5871,5872,tom s mouth was taped shut with duct tape .,mulut tom diplester dengan lakban .
+5884,5886,are you sure you don t want to sleep on it ?,apa kamu yakin tidak mau tidur di atasnya ?
+5886,5888,do you know the man standing on the bridge ?,apakah anda kenal dengan orang yang berdiri di atas jembatan itu ?
+5887,5889,do you know the real reason tom isn t here ?,apa kamu tahu alasan sebenarnya mengapa tom tidak berada di sini ?
+5895,5897,he is reputed the best lawyer in this city .,dia bereputasi sebagai pengacara terbaik di kota ini .
+5899,5901,i am ashamed about what happened yesterday .,saya malu dengan kejadian kemarin .
+5930,5932,she seems to have left for tokyo yesterday .,tampaknya dia telah meninggalkan tokyo kemarin .
+5931,5933,she speaks english and also speaks swahili .,dia bisa berbahasa inggris dan juga swahili .
+5955,5957,tom was standing at the foot of the stairs .,tom berdiri di atas anak tangga .
+5956,5958,we are going to cycle to the lake tomorrow .,kami akan bersepeda ke danau besok .
+5966,5968,do you know anything about fixing computers ?,kamu tahu sesuatu tentang memperbaiki komputer ?
+5970,5972,i am in no position to do anything about it .,saya tidak punya kapasitas untuk mengatasi hal ini .
+5982,5984,i m colorblind . i can t tell red from green .,saya buta warna saya tidak dapat membedakan merah dan hijau .
+5983,5985,it seems a waste of time to wait any longer .,sepertinya akan membuang buang waktu jika kita menunggu lebih lama lagi .
+6007,6010,tom is still being questioned by the police .,saat ini tom masih dimintai kesaksian oleh polisi .
+6008,6011,tom isn t as good a golfer as he says he is .,tom bukan pemain golf yang baik sebaik yang ia katakan .
+6011,6014,tom said he didn t know why mary was absent .,tom bilang dia tidak tahu kenapa mary absen .
+6013,6016,tom was badly injured in a traffic accident .,tom terluka parah saat kecelakaan lalu lintas .
+6015,6018,tom s eyes are red and he looks very tired .,mata tom merah dan ia terlihat sangat lelah .
+6016,6019,tom s situation is getting more complicated .,situasi tom menjadi semakin sulit .
+6020,6024,what is the most romantic city in the world ?,kota apa yang paling romantis di dunia ?
+6022,6026,what s your favorite non alcoholic beverage ?,apa minuman tidak beralkohol kesukaanmu ?
+6031,6035,you re the only one i can count on for help .,kamu satu satunya yang bisa aku andalkan untuk membantuku .
+6039,6043,do you really think that was what tom wanted ?,apa kamu benar benar berpikir kalau itu adalah apa yang tom inginkan ?
+6040,6044,do you want me to wait until you come for me ?,apa kau ingin aku menunggu sampai kau datang ?
+6047,6051,he s always looking at you . he must love you .,dia selalu melihatmu . dia pasti jatuh cinta kepadamu .
+6048,6052,he s the manager of the marketing department .,dia manajer dari departemen pemasaran .
+6049,6053,i am hungry because i did not have breakfast .,saya lapar karena saya tidak sarapan .
+6060,6065,i m already accustomed to the heat of summer .,aku sudah terbiasa dengan panasnya musim panas .
+6061,6066,i m ashamed to ask you such a silly question .,saya malu menanyakan pertanyaan bodoh seperti itu .
+6062,6067,i m going to make a cake for mary s birthday .,aku akan membuat kue untuk ulang tahun marry .
+6086,6091,tom is always telling mary that he loves her .,tom selalu meyakinkan mary bahwa dia benar benar mencintainya
+6087,6092,tom is the only one who didn t pass the test .,tom adalah satu satunya orang yang tidak lulus ujian .
+6092,6097,tom was arrested on drug trafficking charges .,tom ditahan atas tuduhan perdagangan narkoba .
+6093,6098,tom was late for class as is often the case .,seperti biasa tom terlambat datang ke kelas .
+6094,6099,tom was surprised that mary had a motorcycle .,tom terkejut mengetahui mary memiliki sepeda motor .
+6096,6101,tom s japanese is improving little by little .,kemampuan bahasa jepang tom meningkat sedikit demi sedikit .
+6097,6102,tom s gym teacher is mary s basketball coach .,guru senam tom adalah pelatih basket mary .
+6106,6111,do you think that really matters to any of us ?,apa kau pikir itu penting bagi kami ?
+6108,6113,he is the manager of the marketing department .,dia adalah manajer dari departemen pemasaran .
+6148,6153,tom is too old to be doing this kind of thing .,tom terlalu tua untuk melakukan hal semacam ini .
+6152,6157,what is the highest mountain in north america ?,apa gunung tertinggi di amerika utara ?
+6155,6160,where did you get those strange looking shoes ?,dari mana kamu mendapatkan sepatu aneh itu ?
+6159,6164,you are always complaining about your husband .,kamu selalu mengeluhkan suamimu .
+6168,6173,do you have any idea why tom doesn t like mary ?,apa kau tahu kenapa tom tidak suka dengan mary ?
+6188,6193,it seemed that there was no one in the village .,sepertinya tidak ada orang di desa .
+6206,6211,we are going to have a party on saturday night .,kami akan mengadakan sebuah pesta pada malam sabtu .
+6209,6214,what s your favorite free software application ?,software aplikasi apakah yang paling kamu sukai ?
+6214,6220,do you know the real reason that tom isn t here ?,apa kamu tahu alasan sebenarnya mengapa tom tidak berada di sini ?
+6235,6242,it s been a long time since i ve seen my family .,sudah lama sekali sejak aku terakhir bertemu keluargaku .
+6242,6249,tom is much more relaxed when mary isn t around .,tom jauh lebih santai ketika mary tidak ada .
+6246,6253,we re not entirely sure why tom did what he did .,kami tidak mengerti kenapa tom melakukan apa yang dilakukannya .
+6269,6277,it s necessary to go through customs on arriving .,kita wajib melalui pemeriksaan bea dan cukai saat kedatangan .
+6289,6297,tom seems to have changed his mind about staying .,tom sepertinya tidak lagi berniat untuk tinggal .
+6299,6307,do you know any restaurants with good korean food ?,apakah anda mengetahui rumah makan masakan korea yang enak ?
+6309,6318,it s one of the most polluted cities in the world .,kota itu adalah salah satu kota paling berpolusi di dunia .
+6313,6322,she is still financially dependent on her parents .,dia masih bergantung secara finansial kepada orang tuanya .
+6332,6341,i am meeting my mother at the station at o clock .,saya akan menemui ibu saya di stasiun pada pukul tepat .
+6338,6347,i m convinced that tom isn t telling us everything .,saya yakin tom tidak menceritakan semuanya pada kita .
+6339,6348,i m trying to memorize the names of constellations .,saya sedang mencoba menghafalkan nama nama rasi bintang
+6359,6369,do you know where tom has been the past three weeks ?,apa kau tahu di mana tom berada tiga minggu belakangan ini ?
+6378,6392,tom is a gang member . you should stay away from him .,tom itu anggota geng . kamu harus menjauhinya .
+6382,6396,tom started playing the violin when he was thirteen .,tom mulai bermain biola ketika dia berumur tigabelas tahun .
+6383,6397,tom was the one who planted the roses in our garden .,tom adalah orang yang menanam mawar di kebun kita .
+6384,6398,what s the scariest thing that ever happened to you ?,hal apa yang paling menakutkan dan pernah terjadi padamu ?
+6385,6399,what s the scariest thing that ever happened to you ?,hal menakutkan apa yang pernah kamu alami ?
+6386,6400,you re finally going to be a june bride aren t you ?,akhirnya kamu menjadi pengantin di bulan juni juga ya ?
+6389,6403,do you eat spaghetti by twirling it around your fork ?,apa kamu makan spageti dengan melilitkannya ke garpu ?
+6390,6404,he is a nice person to be sure but not very clever .,dia adalah orang yang baik tetapi sesungguhnya dia tidak terlalu pandai .
+6395,6411,it seems unlikely that the train will arrive on time .,sepertinya kereta tidak akan datang tepat waktu .
+6397,6413,it s been a long time since i visited my grandmother .,sudah lama sejak saya mengunjungi nenek saya
+6402,6418,she s not from here . she was born in another country .,dia tidak berasal dari sini . dia lahir di negara lain .
+6414,6430,tom said that he thought mary didn t enjoy the movie .,tom bilang kalau dia mengira mary tidak menikmati filmnya .
+6435,6456,tom squatted down to put something on the lower shelf .,tom berjongkok untuk menaruh sesuatu di rak bawah .
+6441,6465,i m supposed to meet tom in boston next monday at .,saya seharusnya bertemu tom di boston senin depan pada .
+6443,6468,it sounds like having time alone has been good for you .,kedengarannya menghabiskan waktu seorang diri selalu menyenangkan bagimu .
+6464,6492,do you have anything in the refrigerator that i can eat ?,kamu punya sesuatu yang bisa aku makan di kulkas ?
+6465,6493,don t hesitate to ask questions if you don t understand .,jangan ragu untuk menanyakan pertanyaan jika tidak mengerti .
+6482,6517,do you believe our destinies are controlled by the stars ?,percayakah anda bahwa takdir takdir kita dipengaruhi oleh bintang bintang ?
+6483,6518,do you know why tom wasn t at the meeting this afternoon ?,apa kamu tahu kenapa tom tidak hadir pada rapat tadi siang ?
+6484,6519,don t hesitate to ask a question if you don t understand .,jangan ragu untuk menanyakan pertanyaan jika tidak mengerti .
+6492,6531,tom is the only one on this island that can speak french .,tom satu satunya yang bisa berbahasa prancis di pulau ini .
+6495,6534,tom was just about to say something when the door opened .,tom hendak mengatakan sesuatu ketika pintunya terbuka .
+6525,6589,tom was looking for place to eat that had reasonable prices .,tom mencari tempat makan dengan harga yang terjangkau .
+6549,6636,tom is good with his hands and has built many interesting things .,tom memiliki tangan yang kreatif dan telah membuat berbagai benda yang menarik .
+6550,6637,tom said he was planning on visiting an old girlfriend in boston .,tom bilang ia berencana untuk mengunjungi mantan kekasihnya di boston .
+6553,6650,it s said that the vikings discovered america before columbus did .,dikatakan bahwa bangsa viking lebih dulu menemukan benua amerika sebelum columbus .
