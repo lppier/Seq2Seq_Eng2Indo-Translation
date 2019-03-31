@@ -12,6 +12,8 @@ from torch import optim
 import torch.nn.functional as F
 from torch.autograd import Variable
 
+# Loss function: https://pytorch.org/docs/stable/nn.html#torch.nn.NLLLoss
+
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 use_cuda = torch.cuda.is_available()
 
@@ -191,6 +193,15 @@ sent_pairs = list(zip(english_tensors.values, indo_tensors.values))
 pairs = list(zip(df_train['English'], df_train['Indonesian']))
 #print(pairs[:5])
 
+def get_validation_pairs():
+    indo_val_tensors = df_val['Indonesian'].apply(lambda s: variable_from_sent(s, indo_vocab))
+    english_val_tensors = df_val['English'].apply(lambda s: variable_from_sent(s, indo_vocab))
+    val_sent_tensor_pairs = list(zip(english_val_tensors.values, indo_val_tensors.values))
+    val_sent_pairs = list(zip(df_val['English'], df_val['Indonesian']))
+    return val_sent_pairs, val_sent_tensor_pairs
+
+val_sent_pairs, val_sent_tensor_pairs = get_validation_pairs()
+
 #print("############################")
 
 class EncoderRNN(nn.Module):
@@ -250,7 +261,7 @@ class AttnDecoderRNN(nn.Module):
 teacher_forcing_ratio = 0.5
 
 
-def train(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, decoder_optimizer, criterion, max_length=MAX_LENGTH):
+def get_train_loss(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, decoder_optimizer, criterion, max_length=MAX_LENGTH):
     encoder_hidden = encoder.initHidden()
 
     encoder_optimizer.zero_grad()
@@ -300,6 +311,38 @@ def train(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, deco
     decoder_optimizer.step()
 
     return loss.item() / target_length
+
+def get_validation_loss(input_tensor, target_tensor, encoder, decoder, criterion, max_length=MAX_LENGTH):
+    encoder_hidden = encoder.initHidden()
+
+    input_length = input_tensor.size(0)
+    target_length = target_tensor.size(0)
+
+    encoder_outputs = torch.zeros(max_length, encoder.hidden_size, device=device)
+
+    loss = 0
+
+    for ei in range(input_length):
+        encoder_output, encoder_hidden = encoder(
+            input_tensor[ei], encoder_hidden)
+        encoder_outputs[ei] = encoder_output[0, 0]
+
+    decoder_input = torch.tensor([[SOS_token]], device=device)
+
+    decoder_hidden = encoder_hidden
+
+    for di in range(target_length):
+        decoder_output, decoder_hidden, decoder_attention = decoder(
+            decoder_input, decoder_hidden, encoder_outputs)
+        topv, topi = decoder_output.topk(1)
+        decoder_input = topi.squeeze().detach()  # detach from history as input
+
+        loss += criterion(decoder_output, target_tensor[di])
+        if decoder_input.item() == EOS_token:
+            break
+
+    return loss.item() / target_length
+
 
 
 import time
@@ -365,16 +408,30 @@ def trainIters(encoder, decoder, n_iters, batch_size = 1, print_every=1000, save
         #print(input_tensor)
         #print(target_tensor)
 
-        loss = train(input_tensor, target_tensor, encoder,
-                     decoder, encoder_optimizer, decoder_optimizer, criterion)
+        loss = get_train_loss(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, decoder_optimizer, criterion)
         print_loss_total += loss
         plot_loss_total += loss
+
+        total_val_loss = 0
+        total_val_pairs = len(val_sent_tensor_pairs)
+        for itr in range(total_val_pairs):
+            val_input_tensor = val_sent_tensor_pairs[itr][0]
+            val_target_tensor = val_sent_tensor_pairs[itr][1]
+            val_loss = get_validation_loss(val_input_tensor, val_target_tensor, encoder, decoder, criterion)
+            total_val_loss += val_loss
+
+        avg_val_loss = total_val_loss / total_val_pairs
+
 
         if iter % print_every == 0:
             print_loss_avg = print_loss_total / print_every
             print_loss_total = 0
-            print('%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
+            print('Training loss: %s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
                                          iter, iter / n_iters * 100, print_loss_avg))
+            print('Validation loss: %s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
+                                         iter, iter / n_iters * 100, avg_val_loss))
+
+            print("##########################################################")
 
         if iter % plot_every == 0:
             plot_loss_avg = plot_loss_total / plot_every
