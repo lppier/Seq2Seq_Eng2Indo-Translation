@@ -59,7 +59,8 @@ import pandas as pd
 from gensim.corpora.dictionary import Dictionary
 from nltk import word_tokenize
 
-MAX_LENGTH = 15
+MAX_LENGTH = 25
+MIN_LENGTH = 4
 
 eng_prefixes = (
     "i am ", "i m ",
@@ -78,17 +79,12 @@ eng_prefixes = (
 
 def should_keep_row(row):
     """ Should the current row be kept as training set"""
-    indo_num_words = len(word_tokenize(row["Indonesian"]))
+    # indo_num_words = len(word_tokenize(row["Indonesian"]))
     eng_num_words = len(word_tokenize(row["English"]))
-    num_words_required = MAX_LENGTH - 2
-    
-    does_start_with_prefix = False
-    for prefix in eng_prefixes:
-        if row["English"].startswith(prefix):
-            does_start_with_prefix = True
-            break
-    
-    return (indo_num_words <= num_words_required) and (eng_num_words <= num_words_required) and does_start_with_prefix
+    max_words_required = MAX_LENGTH - 2
+    min_words_required = MIN_LENGTH
+
+    return min_words_required <= eng_num_words <= max_words_required
 
 df["keep_row"] = df.apply(should_keep_row, axis=1)
 print(df.shape)
@@ -412,15 +408,7 @@ def trainIters(encoder, decoder, n_iters, batch_size = 1, print_every=1000, save
         print_loss_total += loss
         plot_loss_total += loss
 
-        total_val_loss = 0
-        total_val_pairs = len(val_sent_tensor_pairs)
-        for itr in range(total_val_pairs):
-            val_input_tensor = val_sent_tensor_pairs[itr][0]
-            val_target_tensor = val_sent_tensor_pairs[itr][1]
-            val_loss = get_validation_loss(val_input_tensor, val_target_tensor, encoder, decoder, criterion)
-            total_val_loss += val_loss
 
-        avg_val_loss = total_val_loss / total_val_pairs
 
 
         if iter % print_every == 0:
@@ -428,6 +416,16 @@ def trainIters(encoder, decoder, n_iters, batch_size = 1, print_every=1000, save
             print_loss_total = 0
             print('Training loss: %s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
                                          iter, iter / n_iters * 100, print_loss_avg))
+
+            total_val_loss = 0
+            total_val_pairs = len(val_sent_tensor_pairs)
+            for itr in range(total_val_pairs):
+                val_input_tensor = val_sent_tensor_pairs[itr][0]
+                val_target_tensor = val_sent_tensor_pairs[itr][1]
+                val_loss = get_validation_loss(val_input_tensor, val_target_tensor, encoder, decoder, criterion)
+                total_val_loss += val_loss
+
+            avg_val_loss = total_val_loss / total_val_pairs
             print('Validation loss: %s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
                                          iter, iter / n_iters * 100, avg_val_loss))
 
