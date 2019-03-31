@@ -104,6 +104,9 @@ START, START_IDX = '<s>',  0
 END, END_IDX = '</s>', 1
 UNK, UNK_IDX = 'UNK', 2
 
+SOS_token = START_IDX
+EOS_token = END_IDX
+
 # We use this idiom to tokenize our sentences in the dataframe column:
 # >>> DataFrame['column'].apply(str.lower).apply(word_tokenize)
 
@@ -174,13 +177,20 @@ df_train.head()
 
 indo_tensors = df_train['Indonesian'].apply(lambda s: variable_from_sent(s, indo_vocab))
 print(df_train.iloc[0]['Indonesian'])
-
+df_train
 
 english_tensors = df_train['English'].apply(lambda s: variable_from_sent(s, english_vocab))
-print(df_train.iloc[0]['English'])
-print(english_tensors[0])
+#print(df_train.iloc[0]['English'])
+#print(english_tensors[0])
 # Now, each item in `sent_pairs` is our data point. 
-sent_pairs = list(zip(english_tensors, indo_tensors))
+#print("############################")
+sent_pairs = list(zip(english_tensors.values, indo_tensors.values))
+#print(sent_pairs[:5])
+#print("############################")
+pairs = list(zip(df_train['English'], df_train['Indonesian']))
+#print(pairs[:5])
+
+#print("############################")
 
 class EncoderRNN(nn.Module):
     def __init__(self, input_size, hidden_size):
@@ -247,6 +257,7 @@ def tensorFromSentence(lang, sentence):
 
 
 def tensorsFromPair(pair):
+    """Not using this methods"""
     input_tensor = tensorFromSentence(input_lang, pair[0])
     target_tensor = tensorFromSentence(output_lang, pair[1])
     return (input_tensor, target_tensor)
@@ -343,7 +354,7 @@ def showPlot(points):
 
 
 
-def trainIters(encoder, decoder, n_iters, print_every=1000, save_every=1000, plot_every=100, learning_rate=0.01):
+def trainIters(encoder, decoder, n_iters, batch_size = 1, print_every=1000, save_every=1000, plot_every=100, learning_rate=0.01):
     start = time.time()
     plot_losses = []
     print_loss_total = 0  # Reset every print_every
@@ -351,14 +362,21 @@ def trainIters(encoder, decoder, n_iters, print_every=1000, save_every=1000, plo
 
     encoder_optimizer = optim.SGD(encoder.parameters(), lr=learning_rate)
     decoder_optimizer = optim.SGD(decoder.parameters(), lr=learning_rate)
-    training_pairs = [tensorsFromPair(random.choice(pairs))
-                      for i in range(n_iters)]
+    #training_pairs = [sent_pairs[i] for i in range(n_iters)]
+    training_pairs = [random.sample(sent_pairs, batch_size) for i in range(n_iters)]
+
+    # training_pairs = [tensorsFromPair(random.choice(pairs)) for i in range(n_iters)]
     criterion = nn.NLLLoss()
 
     for iter in range(1, n_iters + 1):
         training_pair = training_pairs[iter - 1]
-        input_tensor = training_pair[0]
-        target_tensor = training_pair[1]
+        #print("################################")
+        #print(training_pair)
+        input_tensor = training_pair[0][0]
+        target_tensor = training_pair[0][1]
+        #print("printing tensors for training...")
+        #print(input_tensor)
+        #print(target_tensor)
 
         loss = train(input_tensor, target_tensor, encoder,
                      decoder, encoder_optimizer, decoder_optimizer, criterion)
@@ -390,7 +408,8 @@ def trainIters(encoder, decoder, n_iters, print_every=1000, save_every=1000, plo
 
 def evaluate(encoder, decoder, sentence, max_length=MAX_LENGTH):
     with torch.no_grad():
-        input_tensor = tensorFromSentence(input_lang, sentence)
+        # input_tensor = tensorFromSentence(input_lang, sentence)
+        input_tensor = variable_from_sent(sentence, english_vocab)
         input_length = input_tensor.size()[0]
         encoder_hidden = encoder.initHidden()
 
@@ -414,10 +433,10 @@ def evaluate(encoder, decoder, sentence, max_length=MAX_LENGTH):
             decoder_attentions[di] = decoder_attention.data
             topv, topi = decoder_output.data.topk(1)
             if topi.item() == EOS_token:
-                decoded_words.append('<EOS>')
+                decoded_words.append('</s>')
                 break
             else:
-                decoded_words.append(output_lang.index2word[topi.item()])
+                decoded_words.append(indo_vocab.id2token[topi.item()])
 
             decoder_input = topi.squeeze().detach()
 
@@ -434,10 +453,10 @@ def evaluateRandomly(encoder, decoder, n=10):
         print('')
 
 hidden_size = 256
-encoder1 = EncoderRNN(input_lang.n_words, hidden_size).to(device)
-attn_decoder1 = AttnDecoderRNN(hidden_size, output_lang.n_words, dropout_p=0.1).to(device)
+encoder1 = EncoderRNN(len(english_vocab), hidden_size).to(device)
+attn_decoder1 = AttnDecoderRNN(hidden_size, len(indo_vocab), dropout_p=0.1).to(device)
 
-trainIters(encoder1, attn_decoder1, 75000, print_every=5000)
+trainIters(encoder1, attn_decoder1, 1000, print_every=100)
 
 evaluateRandomly(encoder1, attn_decoder1)
 
