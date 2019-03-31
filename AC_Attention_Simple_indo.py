@@ -4,6 +4,7 @@ import unicodedata
 import string
 import re
 import random
+import os
 
 import torch
 import torch.nn as nn
@@ -337,6 +338,9 @@ def timeSince(since, percent):
 
 
 SAVE_PATH = 'results'
+
+if not os.path.exists(SAVE_PATH):
+  os.makedirs(SAVE_PATH)
 
 import matplotlib.pyplot as plt
 plt.switch_backend('agg')
