@@ -429,7 +429,7 @@ def trainIters(encoder, decoder, n_iters, batch_size=1, print_every=1000, save_e
     # training_pairs = [tensorsFromPair(random.choice(pairs)) for i in range(n_iters)]
     criterion = nn.NLLLoss()
 
-    num_validation_records = 500
+    num_validation_records = 900
 
     for iter in range(1, n_iters + 1):
         training_pair = training_pairs[iter - 1]
