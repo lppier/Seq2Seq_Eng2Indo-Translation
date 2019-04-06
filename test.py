@@ -285,7 +285,7 @@ def train(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, deco
     encoder_outputs = torch.zeros(max_length, encoder.hidden_size, device=device)
 
     loss = 0
-
+    blue_score = 0
     for ei in range(input_length):
         encoder_output, encoder_hidden = encoder(
             input_tensor[ei], encoder_hidden)
@@ -299,31 +299,31 @@ def train(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, deco
 
     if use_teacher_forcing:
         # Teacher forcing: Feed the target as the next input
-        decoded_words = []
+        reference_words = []
         candidate_words = []
         for di in range(target_length):
             decoder_output, decoder_hidden, decoder_attention = decoder(
                 decoder_input, decoder_hidden, encoder_outputs)
             topv, topi = decoder_output.data.topk(1)
             if topi.item() == EOS_token:
-                decoded_words.append('</s>')
+                reference_words.append('</s>')
                 break
             else:
-                decoded_words.append(indo_vocab.id2token[topi.item()])
-            for index in target_tensor[di].data:
+                reference_words.append(indo_vocab.id2token[topi.item()])
+            for index in target_tensor[di].data.topk(1):
                 candidate_words.append(indo_vocab.id2token[index.item()]) 
             loss += criterion(decoder_output, target_tensor[di])
-            
-            print("Decoded words",decoded_words)
+            #blue_score += sentence_bleu(list(reference_words),candidate_words,weights=(1, 0, 0, 0))
+            print("reference words",reference_words)
             print("candidate words",candidate_words)
-            print("blue score:",sentence_bleu(decoded_words,candidate_words))
+            print("blue score:",sentence_bleu(list(reference_words),candidate_words,weights=(1, 0, 0, 0)))
             decoder_input = target_tensor[di]  # Teacher forcing
         # print("Decoded words",decoded_words)
         # print("candidate words",candidate_words)    
 
     else:
         # Without teacher forcing: use its own predictions as the next input
-        decoded_words = []
+        reference_words = []
         candidate_words = []
         for di in range(target_length):
             decoder_output, decoder_hidden, decoder_attention = decoder(
@@ -331,18 +331,19 @@ def train(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, deco
             topv, topi = decoder_output.topk(1)
             decoder_input = topi.squeeze().detach()  # detach from history as input
             if topi.item() == EOS_token:
-                decoded_words.append('</s>')
+                reference_words.append('</s>')
                 break
             else:
-                decoded_words.append(indo_vocab.id2token[topi.item()])
+                reference_words.append(indo_vocab.id2token[topi.item()])
 
-            for index in target_tensor[di].data:
+            for index in target_tensor[di].data.topk(1):
                 candidate_words.append(indo_vocab.id2token[index.item()])
             #print("Decoded words",decoded_words)
-            print("Decoded words",decoded_words)
+            print("reference words",reference_words)
             print("candidate words",candidate_words)
-            print("blue score:",sentence_bleu(decoded_words,candidate_words))
+            print("blue score:",sentence_bleu(list(reference_words),candidate_words,weights=(1, 0, 0, 0)))
             loss += criterion(decoder_output, target_tensor[di])
+            #blue_score += sentence_bleu(list(reference_words),candidate_words,weights=(1, 0, 0, 0))
             if decoder_input.item() == EOS_token:
                 break
         # print("Decoded words",decoded_words)
@@ -353,7 +354,7 @@ def train(input_tensor, target_tensor, encoder, decoder, encoder_optimizer, deco
     encoder_optimizer.step()
     decoder_optimizer.step()
 
-    return loss.item() / target_length
+    return (loss.item() / target_length),(blue_score)
 
 
 import time
@@ -398,8 +399,12 @@ def showPlot(points):
 def trainIters(encoder, decoder, n_iters, batch_size = 1, print_every=1000, save_every=1000, plot_every=100, learning_rate=0.01):
     start = time.time()
     plot_losses = []
+    plot_bleu_scores = []
     print_loss_total = 0  # Reset every print_every
     plot_loss_total = 0  # Reset every plot_every
+    print_blue_score_total = 0
+    plot_bleu_score_total = 0
+
 
     encoder_optimizer = optim.SGD(encoder.parameters(), lr=learning_rate)
     decoder_optimizer = optim.SGD(decoder.parameters(), lr=learning_rate)
@@ -419,22 +424,32 @@ def trainIters(encoder, decoder, n_iters, batch_size = 1, print_every=1000, save
         #print(input_tensor)
         #print(target_tensor)
 
-        loss = train(input_tensor, target_tensor, encoder,
+        loss,blue_score = train(input_tensor, target_tensor, encoder,
                      decoder, encoder_optimizer, decoder_optimizer, criterion)
         print_loss_total += loss
         plot_loss_total += loss
+        print_blue_score_total += blue_score
+        plot_bleu_score_total += blue_score
+
+
 
         if iter % print_every == 0:
             print_loss_avg = print_loss_total / print_every
             print_loss_total = 0
-            print('%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
+            print_blue_score_avg = print_blue_score_total / print_every
+            print_blue_score_total = 0
+            print('loss:%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
                                          iter, iter / n_iters * 100, print_loss_avg))
+            # print('bleu score:%s (%d %d%%) %.4f' % (timeSince(start, iter / n_iters),
+            #                              iter, iter / n_iters * 100, print_blue_score_avg))
 
         if iter % plot_every == 0:
             plot_loss_avg = plot_loss_total / plot_every
+            plot_blue_score_avg = plot_blue_score_total / plot_every
+            plot_bleu_scores.append(plot_blue_score_avg)
             plot_losses.append(plot_loss_avg)
             plot_loss_total = 0
-        
+            plot_blue_score_total = 0
         # save trained encoder and decoder
         if iter % save_every == 0:
             encoder_save_path = '%s/%s-%d.pth' % (SAVE_PATH, 'encoder', iter)
@@ -445,6 +460,7 @@ def trainIters(encoder, decoder, n_iters, batch_size = 1, print_every=1000, save
             torch.save(decoder.state_dict(), decoder_save_path)
 
     showPlot(plot_losses)
+    showPlot(plot_bleu_scores)
 
 
 def evaluate(encoder, decoder, sentence, max_length=MAX_LENGTH):
@@ -497,7 +513,7 @@ hidden_size = 256
 encoder1 = EncoderRNN(len(english_vocab), hidden_size).to(device)
 attn_decoder1 = AttnDecoderRNN(hidden_size, len(indo_vocab), dropout_p=0.1).to(device)
 
-trainIters(encoder1, attn_decoder1, 1000, print_every=100)
+trainIters(encoder1, attn_decoder1, 100, print_every=1)
 
 evaluateRandomly(encoder1, attn_decoder1)
 
