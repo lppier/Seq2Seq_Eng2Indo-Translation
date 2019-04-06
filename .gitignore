@@ -11,5 +11,6 @@ checkpoint\.pt
 pytorchtools\.py
 
 results/
+results_bak/
 
 .idea
