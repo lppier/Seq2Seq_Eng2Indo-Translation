@@ -1,0 +1,15 @@
+1. Please run the notebook inside the evaluation folder
+2. A Jupyter widget is created to input the English sentences.
+3. Please try sentences like: (these do not exist in the training/validation corpus)
+Tom is playing with ball.
+She is standing there.
+He is a bad man.
+He wants to sleep.
+He is a bad man.
+I can't see you crying.
+
+These sentences are also mentioned in the report.
+
+NOTE: 
+1. The dependencies can be installed using pip install --upgrade -r requirements.txt
+2. Incase a word is used which is not present in the English vocab during training an unk will be put as its placed
