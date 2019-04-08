@@ -6,3 +6,5 @@ Bahasa Indonesia, or Bahasa is the main language of Indonesia which is the large
 Data source - Manythings_anki (Tatoeba)
 https://www.manythings.org/anki/ind-eng.zip.
 
+Full report here : https://github.com/lppier/Seq2Seq_Eng2Indo-Translation/blob/master/Seq2Seq_Eng2Indo_Report.pdf
+
